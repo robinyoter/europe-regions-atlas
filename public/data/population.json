@@ -1,0 +1,5741 @@
+{
+  "schemaVersion": 1,
+  "compiledOn": "2026-10-02",
+  "policy": "2025/2024 when available; older comparable observations otherwise; partial coverage explicitly labelled",
+  "records": {
+    "AUT-97560089B12055607938436": {
+      "value": 301790,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT11"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B20931628540879": {
+      "value": 411784,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT34"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B24691553772644": {
+      "value": 2028289,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT13"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B30234814950985": {
+      "value": 1727514,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT12"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B46292059412713": {
+      "value": 777660,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT33"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B55365172259742": {
+      "value": 570095,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT21"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B65158936715310": {
+      "value": 572846,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT32"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B86772589826985": {
+      "value": 1535519,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT31"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "AUT-97560089B87855108402029": {
+      "value": 1271716,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "AT22"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "BEL-BE1": {
+      "value": 1271709,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "BE1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "BEL-BE2": {
+      "value": 6884271,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "BE2"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "BEL-BE3": {
+      "value": 3727515,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "BE3"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "BIH-54001226B17629474923252": {
+      "value": 2138121,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "fzs",
+      "definition": "Постоянное население"
+    },
+    "BIH-54001226B66267900922909": {
+      "value": 1110496,
+      "year": 2024,
+      "referenceDate": "2024-06-30",
+      "source": "rzs",
+      "definition": "Постоянное население"
+    },
+    "BIH-54001226B82378099338701": {
+      "value": 80371,
+      "year": 2024,
+      "source": "bhas",
+      "definition": "Оценка присутствующего населения",
+      "note": "Оценка BHAS на основе переписи 2013 года; не учитывает внешнюю миграцию."
+    },
+    "BLR-45462678B24636394065255": {
+      "value": 1072063,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "belstat",
+      "definition": "Постоянное население"
+    },
+    "BLR-45462678B29468378769629": {
+      "value": 1299912,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "belstat",
+      "definition": "Постоянное население"
+    },
+    "BLR-45462678B41589714648574": {
+      "value": 984880,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "belstat",
+      "definition": "Постоянное население"
+    },
+    "BLR-45462678B52111461583443": {
+      "value": 1456357,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "belstat",
+      "definition": "Постоянное население"
+    },
+    "BLR-45462678B57724394311820": {
+      "value": 1996730,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "belstat",
+      "definition": "Постоянное население"
+    },
+    "BLR-45462678B58682879627750": {
+      "value": 971365,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "belstat",
+      "definition": "Постоянное население"
+    },
+    "BLR-45462678B94500211462696": {
+      "value": 1327973,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "belstat",
+      "definition": "Постоянное население"
+    },
+    "CHE-70761945B11338788345342": {
+      "value": 735808,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH033"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B11753136967749": {
+      "value": 42371,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH051"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B19914004537681": {
+      "value": 74840,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH025"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B22837365779622": {
+      "value": 88667,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH052"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B27205007293794": {
+      "value": 540036,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH055"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B29073934101403": {
+      "value": 437944,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH061"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B29858350399599": {
+      "value": 168931,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH063"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B36749553910786": {
+      "value": 289792,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH023"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B38573473865054": {
+      "value": 371288,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH012"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B39944874342149": {
+      "value": 39662,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH064"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B4468941998498": {
+      "value": 1620020,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH040"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B45925471978558": {
+      "value": 45345,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH065"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B62987387977087": {
+      "value": 201384,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH031"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B64873726514121": {
+      "value": 179518,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH024"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B70106229378933": {
+      "value": 133739,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH066"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B71472094577065": {
+      "value": 56705,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH053"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B73029947081098": {
+      "value": 16733,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH054"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B73326014959541": {
+      "value": 299509,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH057"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B76174754463268": {
+      "value": 38275,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH062"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B78940680080703": {
+      "value": 1071216,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH021"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B83881285484717": {
+      "value": 531102,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH013"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B84766611276082": {
+      "value": 301323,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH032"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B85268669280160": {
+      "value": 855106,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH011"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B85432491504073": {
+      "value": 206138,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH056"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B87604960987122": {
+      "value": 346674,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH022"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "CHE-70761945B95773795125249": {
+      "value": 358903,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "CH070"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B20892132820961": {
+      "value": 3685265,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE3"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B23625801106445": {
+      "value": 2135597,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DEE"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B38053019909436": {
+      "value": 8004489,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE9"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B40185768535592": {
+      "value": 2556747,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE4"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B42728698084544": {
+      "value": 4129569,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DEB"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B44391416804171": {
+      "value": 704881,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE5"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B45896528657515": {
+      "value": 1862565,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE6"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B46069870964378": {
+      "value": 2959517,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DEF"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B60055985875400": {
+      "value": 17526691,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE1",
+        "DE7"
+      ],
+      "definition": "Население на 1 января",
+      "note": "Сумма статистических единиц одного года."
+    },
+    "DEU-10402087B60477050509260": {
+      "value": 13248928,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE2"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B60782008682549": {
+      "value": 1573597,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE8"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B67217417145666": {
+      "value": 2100277,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DEG"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B83775792336645": {
+      "value": 1012141,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DEC"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B85226028911536": {
+      "value": 6280793,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DE7"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B86022102756745": {
+      "value": 18034454,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DEA"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DEU-10402087B89016843004490": {
+      "value": 4042422,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DED"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DNK-84455774B58555105451238": {
+      "value": 1373799,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DK04"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DNK-84455774B63592985071065": {
+      "value": 1930793,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DK01"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DNK-84455774B68755790009873": {
+      "value": 1240472,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DK03"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DNK-84455774B84842167963849": {
+      "value": 592768,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DK05"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "DNK-84455774B92412385890269": {
+      "value": 854902,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "DK02"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B14384488423733": {
+      "value": 5425182,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES52"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B18225280299410": {
+      "value": 87067,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES64"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B24314700704920": {
+      "value": 1015128,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES12"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B26609846683583": {
+      "value": 1249844,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES53"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B27950689864224": {
+      "value": 1586989,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES62"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B33348776534112": {
+      "value": 683854,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES22"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B37069901476290": {
+      "value": 593623,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES13"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B43154843394848": {
+      "value": 7113886,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES30"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B48808997991554": {
+      "value": 83567,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES63"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B56567998760255": {
+      "value": 2242343,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES21"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B61325010384209": {
+      "value": 1364621,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES24"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B80227492032103": {
+      "value": 8124126,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES51"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B81978515469630": {
+      "value": 326803,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES23"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B84620027724461": {
+      "value": 2258866,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES70"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B8471183517505": {
+      "value": 2401221,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES41"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B86140490400531": {
+      "value": 1053345,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES43"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B88831207743232": {
+      "value": 8676713,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES61"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B94236519555378": {
+      "value": 2714741,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES11"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ESP-25490228B94630301010512": {
+      "value": 2126378,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ES42"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "EST-WHOLE": {
+      "value": 1369995,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EE"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B17994066114322": {
+      "value": 494819,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1C1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B21119876657643": {
+      "value": 545406,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI19B"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B22299411224621": {
+      "value": 178749,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI19A"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B30960840619879": {
+      "value": 1782300,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1B1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B43233145825563": {
+      "value": 189929,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI199"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B44835655910893": {
+      "value": 69639,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1D8"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B58135301868459": {
+      "value": 67723,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1D5"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B62240171763951": {
+      "value": 204635,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1C6"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B62635796201807": {
+      "value": 248815,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1DB"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B6444665230203": {
+      "value": 157442,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1C7"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B65986062820565": {
+      "value": 169455,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1C2"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B73736336897537": {
+      "value": 162091,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1DC"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B76795664887161": {
+      "value": 125083,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1C5"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B78555514573464": {
+      "value": 274112,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI198"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B86083853836544": {
+      "value": 30654,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI200"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B87432053307570": {
+      "value": 418331,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1D9"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B88711432523249": {
+      "value": 211261,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI196"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B9539567772054": {
+      "value": 176151,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1D7"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FIN-49019192B95561484044627": {
+      "value": 129376,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FI1DA"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B12418907782041": {
+      "value": 6210839,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRI"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B22604203385446": {
+      "value": 362253,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRM"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B22645672383103": {
+      "value": 12549288,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FR1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B30439183828151": {
+      "value": 2796878,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRC"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B36302232233914": {
+      "value": 5974447,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRE"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B5758982491638": {
+      "value": 2588306,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRB"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B57683459369229": {
+      "value": 6205575,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRJ"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B64983593182368": {
+      "value": 3489252,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRH"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B73800214047876": {
+      "value": 8270088,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRK"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B74392602121343": {
+      "value": 5550155,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRF"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B74885379641265": {
+      "value": 3350982,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRD"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B95725112529620": {
+      "value": 5285125,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRL"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "FRA-19338628B99642989531496": {
+      "value": 3945359,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "FRG"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GBR-14339913B23556801435424": {
+      "value": 5545500,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "nomis",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "S92000003"
+      ]
+    },
+    "GBR-14339913B6930312138089": {
+      "value": 1928446,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "nomis",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "N92000002"
+      ]
+    },
+    "GBR-14339913B89763821047858": {
+      "value": 3175181,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "nomis",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "W92000004"
+      ]
+    },
+    "GBR-ENG-BEDFORDSHIRE": {
+      "value": 754383,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000055",
+        "E06000056",
+        "E06000032"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-BERKSHIRE": {
+      "value": 997680,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000036",
+        "E06000038",
+        "E06000039",
+        "E06000037",
+        "E06000040",
+        "E06000041"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-BRISTOL": {
+      "value": 495260,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000023"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-BUCKINGHAMSHIRE": {
+      "value": 893162,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000060",
+        "E06000042"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-CAMBRIDGESHIRE": {
+      "value": 941740,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000003",
+        "E06000031"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-CHESHIRE": {
+      "value": 1146747,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000049",
+        "E06000050",
+        "E06000006",
+        "E06000007"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-CITY-OF-LONDON": {
+      "value": 15631,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E09000001"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-CORNWALL": {
+      "value": 587081,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000052",
+        "E06000053"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-CUMBRIA": {
+      "value": 513650,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000063",
+        "E06000064"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-DERBYSHIRE": {
+      "value": 1102561,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000007",
+        "E06000015"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-DEVON": {
+      "value": 1256388,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000008",
+        "E06000026",
+        "E06000027"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-DORSET": {
+      "value": 796865,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000059",
+        "E06000058"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-DURHAM": {
+      "value": 894025,
+      "year": 2024,
+      "referenceDate": "2024-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000047",
+        "E06000005",
+        "E06000001",
+        "E00061735",
+        "E00061738",
+        "E00061741",
+        "E00061732",
+        "E00061734",
+        "E00061740",
+        "E00061744",
+        "E00061736",
+        "E00061733",
+        "E00061737",
+        "E00061745",
+        "E00061739",
+        "E00061747",
+        "E00061743",
+        "E00061742",
+        "E00061746",
+        "E00061757",
+        "E00061756",
+        "E00061754",
+        "E00061500",
+        "E00061494",
+        "E00061753",
+        "E00061502",
+        "E00061504",
+        "E00061597",
+        "E00061513",
+        "E00061503",
+        "E00061505",
+        "E00061516",
+        "E00061511",
+        "E00061498",
+        "E00061462",
+        "E00061461",
+        "E00061506",
+        "E00061749",
+        "E00061751",
+        "E00061508",
+        "E00061499",
+        "E00061512",
+        "E00061509",
+        "E00061755",
+        "E00061495",
+        "E00061515",
+        "E00061514",
+        "E00061517",
+        "E00061501",
+        "E00061750",
+        "E00061598",
+        "E00061599",
+        "E00061497",
+        "E00061748",
+        "E00061496",
+        "E00061510",
+        "E00061596",
+        "E00061507",
+        "E00061752",
+        "E00061487",
+        "E00061476",
+        "E00061493",
+        "E00061480",
+        "E00061523",
+        "E00061522",
+        "E00061526",
+        "E00061492",
+        "E00061479",
+        "E00061471",
+        "E00061478",
+        "E00061477",
+        "E00061483",
+        "E00061474",
+        "E00061486",
+        "E00061469",
+        "E00061463",
+        "E00061488",
+        "E00061465",
+        "E00061466",
+        "E00061489",
+        "E00061600",
+        "E00061520",
+        "E00061485",
+        "E00061481",
+        "E00061467",
+        "E00061525",
+        "E00061484",
+        "E00061473",
+        "E00061475",
+        "E00061482",
+        "E00061464",
+        "E00061472",
+        "E00061490",
+        "E00061491",
+        "E00061519",
+        "E00061468",
+        "E00061470",
+        "E00061518",
+        "E00061521",
+        "E00061605",
+        "E00061538",
+        "E00061532",
+        "E00061611",
+        "E00061604",
+        "E00061542",
+        "E00061527",
+        "E00061622",
+        "E00061534",
+        "E00061531",
+        "E00061533",
+        "E00061601",
+        "E00061613",
+        "E00061528",
+        "E00061536",
+        "E00061614",
+        "E00061617",
+        "E00061607",
+        "E00061541",
+        "E00061616",
+        "E00061606",
+        "E00061602",
+        "E00061612",
+        "E00061618",
+        "E00061543",
+        "E00061619",
+        "E00061608",
+        "E00061537",
+        "E00061610",
+        "E00061544",
+        "E00061609",
+        "E00061621",
+        "E00061603",
+        "E00061539",
+        "E00061540",
+        "E00061530",
+        "E00061529",
+        "E00061535",
+        "E00061615",
+        "E00061620",
+        "E00061553",
+        "E00061631",
+        "E00061638",
+        "E00061630",
+        "E00061640",
+        "E00061626",
+        "E00061647",
+        "E00061548",
+        "E00061550",
+        "E00061648",
+        "E00061642",
+        "E00061625",
+        "E00061552",
+        "E00061560",
+        "E00061649",
+        "E00061623",
+        "E00061646",
+        "E00061627",
+        "E00061634",
+        "E00061633",
+        "E00061558",
+        "E00061546",
+        "E00061554",
+        "E00061641",
+        "E00061556",
+        "E00061551",
+        "E00061545",
+        "E00061644",
+        "E00061645",
+        "E00061639",
+        "E00061555",
+        "E00061559",
+        "E00061629",
+        "E00061628",
+        "E00061547",
+        "E00061557",
+        "E00061643",
+        "E00061549",
+        "E00061561",
+        "E00061624",
+        "E00061593",
+        "E00061587",
+        "E00061580",
+        "E00061590",
+        "E00061650",
+        "E00061565",
+        "E00061591",
+        "E00061655",
+        "E00061572",
+        "E00061579",
+        "E00061583",
+        "E00061585",
+        "E00061562",
+        "E00061581",
+        "E00061584",
+        "E00061577",
+        "E00061576",
+        "E00061566",
+        "E00061569",
+        "E00061595",
+        "E00061589",
+        "E00061654",
+        "E00061564",
+        "E00061568",
+        "E00061570",
+        "E00061578",
+        "E00061573",
+        "E00061588",
+        "E00061656",
+        "E00061575",
+        "E00061571",
+        "E00061582",
+        "E00061586",
+        "E00061653",
+        "E00061651",
+        "E00061574",
+        "E00061592",
+        "E00061652",
+        "E00061563",
+        "E00061594",
+        "E00061661",
+        "E00061662",
+        "E00061658",
+        "E00061659",
+        "E00061657",
+        "E00061663",
+        "E00061664",
+        "E00061660",
+        "E00061794",
+        "E00061768",
+        "E00061773",
+        "E00061781",
+        "E00061764",
+        "E00061787",
+        "E00061789",
+        "E00061762",
+        "E00061795",
+        "E00061780",
+        "E00061770",
+        "E00061779",
+        "E00061784",
+        "E00061791",
+        "E00061786",
+        "E00061759",
+        "E00061792",
+        "E00061788",
+        "E00061783",
+        "E00061777",
+        "E00061766",
+        "E00061775",
+        "E00061782",
+        "E00061761",
+        "E00061771",
+        "E00061758",
+        "E00061765",
+        "E00061767",
+        "E00061793",
+        "E00061760",
+        "E00061776",
+        "E00061769",
+        "E00061790",
+        "E00061763",
+        "E00061778",
+        "E00061774",
+        "E00061785",
+        "E00061805",
+        "E00061804",
+        "E00061819",
+        "E00061817",
+        "E00061803",
+        "E00061812",
+        "E00061808",
+        "E00061825",
+        "E00061829",
+        "E00061797",
+        "E00061801",
+        "E00061838",
+        "E00061802",
+        "E00061814",
+        "E00061816",
+        "E00061806",
+        "E00061834",
+        "E00061827",
+        "E00061841",
+        "E00061809",
+        "E00061826",
+        "E00061833",
+        "E00061821",
+        "E00061828",
+        "E00061823",
+        "E00061800",
+        "E00061824",
+        "E00061818",
+        "E00061815",
+        "E00061832",
+        "E00061830",
+        "E00061807",
+        "E00061796",
+        "E00061798",
+        "E00061799",
+        "E00061820",
+        "E00061831",
+        "E00061813",
+        "E00061822",
+        "E00061811",
+        "E00061929",
+        "E00061852",
+        "E00061864",
+        "E00061921",
+        "E00061848",
+        "E00061850",
+        "E00061842",
+        "E00061863",
+        "E00061931",
+        "E00061847",
+        "E00061867",
+        "E00061928",
+        "E00061855",
+        "E00061923",
+        "E00061851",
+        "E00061858",
+        "E00061932",
+        "E00061924",
+        "E00061925",
+        "E00061856",
+        "E00061930",
+        "E00061844",
+        "E00061845",
+        "E00061927",
+        "E00061868",
+        "E00061865",
+        "E00061860",
+        "E00061849",
+        "E00061933",
+        "E00061926",
+        "E00061922",
+        "E00061846",
+        "E00061866",
+        "E00061854",
+        "E00061843",
+        "E00061859",
+        "E00188273",
+        "E00174149",
+        "E00174163",
+        "E00174147",
+        "E00174143",
+        "E00174152",
+        "E00174160",
+        "E00174144",
+        "E00174164",
+        "E00174136",
+        "E00174158",
+        "E00174148",
+        "E00174153",
+        "E00174145",
+        "E00174166",
+        "E00174157",
+        "E00174165",
+        "E00174162",
+        "E00174142",
+        "E00174150",
+        "E00061896",
+        "E00061880",
+        "E00061889",
+        "E00061881",
+        "E00061899",
+        "E00061901",
+        "E00061903",
+        "E00061892",
+        "E00061870",
+        "E00061900",
+        "E00061902",
+        "E00061886",
+        "E00061893",
+        "E00061891",
+        "E00061882",
+        "E00061876",
+        "E00061877",
+        "E00061890",
+        "E00061885",
+        "E00061894",
+        "E00061895",
+        "E00061898",
+        "E00061873",
+        "E00061869",
+        "E00061872",
+        "E00061879",
+        "E00061884",
+        "E00188276",
+        "E00061897",
+        "E00061878",
+        "E00061874",
+        "E00061875",
+        "E00061883",
+        "E00061888",
+        "E00061887",
+        "E00061911",
+        "E00062003",
+        "E00061917",
+        "E00062006",
+        "E00061914",
+        "E00062004",
+        "E00061904",
+        "E00061990",
+        "E00061989",
+        "E00061906",
+        "E00062000",
+        "E00062002",
+        "E00062001",
+        "E00061915",
+        "E00061913",
+        "E00061909",
+        "E00062008",
+        "E00061995",
+        "E00061993",
+        "E00061907",
+        "E00061999",
+        "E00061919",
+        "E00061908",
+        "E00061991",
+        "E00061920",
+        "E00061992",
+        "E00061912",
+        "E00061910",
+        "E00061916",
+        "E00062007",
+        "E00061918",
+        "E00061997",
+        "E00188291",
+        "E00062013",
+        "E00188279",
+        "E00188314",
+        "E00062011",
+        "E00188295",
+        "E00188325",
+        "E00062010",
+        "E00062012",
+        "E00062014",
+        "E00188303",
+        "E00188313",
+        "E00188306",
+        "E00062009",
+        "E00188202",
+        "E00188191",
+        "E00174188",
+        "E00188206",
+        "E00188197",
+        "E00188205",
+        "E00174187",
+        "E00188189",
+        "E00188328",
+        "E00188185",
+        "E00188229",
+        "E00188327",
+        "E00174190",
+        "E00188171",
+        "E00188326",
+        "E00174186",
+        "E00188231",
+        "E00188232",
+        "E00188201",
+        "E00188230",
+        "E00188222",
+        "E00188204",
+        "E00188223",
+        "E00188252",
+        "E00188238",
+        "E00188261",
+        "E00188233",
+        "E00188247",
+        "E00188267",
+        "E00188236"
+      ],
+      "note": "Сумма местных органов власти и части Stockton-on-Tees. Мелкие статистические территории (OA) отнесены к графству по центрам населения ONS; доступны за 2024 год."
+    },
+    "GBR-ENG-EAST-RIDING-OF-YORKSHIRE": {
+      "value": 633591,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000011",
+        "E06000010"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-EAST-SUSSEX": {
+      "value": 846025,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000011",
+        "E06000043"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-ESSEX": {
+      "value": 1943003,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000012",
+        "E06000033",
+        "E06000034"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-GLOUCESTERSHIRE": {
+      "value": 980695,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000013",
+        "E06000025"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-GREATER-LONDON": {
+      "value": 9107278,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E12000007",
+        "-E09000001"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-GREATER-MANCHESTER": {
+      "value": 3017590,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E11000001"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-HAMPSHIRE": {
+      "value": 1922408,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000014",
+        "E06000045",
+        "E06000044"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-HEREFORDSHIRE": {
+      "value": 192539,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000019"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-HERTFORDSHIRE": {
+      "value": 1239398,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000015"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-ISLE-OF-WIGHT": {
+      "value": 140777,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000046"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-KENT": {
+      "value": 1945466,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000016",
+        "E06000035"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-LANCASHIRE": {
+      "value": 1615860,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000017",
+        "E06000008",
+        "E06000009"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-LEICESTERSHIRE": {
+      "value": 1135564,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000018",
+        "E06000016"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-LINCOLNSHIRE": {
+      "value": 1125531,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000019",
+        "E06000013",
+        "E06000012"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-MERSEYSIDE": {
+      "value": 1479007,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E11000002"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-NORFOLK": {
+      "value": 945427,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000020"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-NORTH-YORKSHIRE": {
+      "value": 1201415,
+      "year": 2024,
+      "referenceDate": "2024-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000065",
+        "E06000014",
+        "E06000002",
+        "E06000003",
+        "E00061728",
+        "E00061706",
+        "E00061717",
+        "E00061704",
+        "E00061708",
+        "E00061718",
+        "E00061725",
+        "E00061705",
+        "E00061713",
+        "E00061726",
+        "E00061723",
+        "E00061721",
+        "E00061729",
+        "E00061719",
+        "E00061724",
+        "E00061714",
+        "E00061731",
+        "E00061727",
+        "E00061716",
+        "E00061711",
+        "E00061720",
+        "E00061707",
+        "E00061715",
+        "E00061722",
+        "E00061674",
+        "E00061668",
+        "E00061695",
+        "E00061677",
+        "E00061688",
+        "E00061679",
+        "E00061693",
+        "E00061671",
+        "E00061678",
+        "E00061689",
+        "E00061694",
+        "E00061696",
+        "E00061697",
+        "E00061666",
+        "E00061669",
+        "E00061682",
+        "E00061692",
+        "E00061665",
+        "E00061685",
+        "E00061686",
+        "E00061698",
+        "E00061675",
+        "E00061684",
+        "E00061681",
+        "E00061690",
+        "E00061683",
+        "E00061687",
+        "E00061673",
+        "E00061676",
+        "E00061699",
+        "E00061670",
+        "E00061691",
+        "E00061700",
+        "E00061703",
+        "E00061701",
+        "E00061936",
+        "E00061934",
+        "E00061938",
+        "E00061937",
+        "E00061954",
+        "E00061949",
+        "E00062038",
+        "E00061957",
+        "E00061964",
+        "E00061952",
+        "E00061943",
+        "E00062034",
+        "E00061945",
+        "E00062039",
+        "E00061966",
+        "E00062035",
+        "E00061959",
+        "E00061950",
+        "E00061944",
+        "E00061958",
+        "E00061971",
+        "E00061947",
+        "E00061960",
+        "E00061953",
+        "E00061967",
+        "E00061956",
+        "E00061961",
+        "E00061946",
+        "E00061942",
+        "E00062037",
+        "E00061962",
+        "E00061977",
+        "E00062040",
+        "E00061969",
+        "E00061965",
+        "E00061941",
+        "E00061972",
+        "E00061939",
+        "E00061955",
+        "E00061975",
+        "E00061951",
+        "E00061968",
+        "E00061948",
+        "E00165750",
+        "E00174141",
+        "E00165751",
+        "E00165764",
+        "E00165752",
+        "E00174139",
+        "E00174159",
+        "E00165749",
+        "E00062042",
+        "E00174168",
+        "E00174140",
+        "E00174156",
+        "E00165747",
+        "E00165765",
+        "E00174172",
+        "E00174155",
+        "E00165748",
+        "E00174169",
+        "E00174170",
+        "E00062041",
+        "E00174137",
+        "E00174174",
+        "E00174176",
+        "E00061978",
+        "E00174175",
+        "E00174177",
+        "E00061988",
+        "E00061981",
+        "E00061987",
+        "E00061985",
+        "E00061982",
+        "E00061983",
+        "E00061979",
+        "E00061980",
+        "E00188287",
+        "E00062015",
+        "E00188294",
+        "E00062031",
+        "E00062024",
+        "E00062018",
+        "E00062022",
+        "E00062033",
+        "E00062019",
+        "E00062030",
+        "E00062020",
+        "E00188311",
+        "E00062025",
+        "E00062017",
+        "E00062029",
+        "E00188285",
+        "E00062027",
+        "E00062028",
+        "E00062023",
+        "E00062021",
+        "E00188323",
+        "E00188320",
+        "E00062016",
+        "E00188296",
+        "E00062032",
+        "E00062026",
+        "E00188212",
+        "E00174180",
+        "E00174179",
+        "E00188187",
+        "E00174178",
+        "E00188219",
+        "E00174183",
+        "E00188210",
+        "E00174189",
+        "E00188180",
+        "E00188183",
+        "E00174182",
+        "E00188329",
+        "E00188330",
+        "E00188214",
+        "E00188198",
+        "E00174181",
+        "E00188259",
+        "E00188272",
+        "E00188257",
+        "E00188255",
+        "E00188248",
+        "E00188262",
+        "E00188264",
+        "E00188256"
+      ],
+      "note": "Сумма местных органов власти и части Stockton-on-Tees. Мелкие статистические территории (OA) отнесены к графству по центрам населения ONS; доступны за 2024 год."
+    },
+    "GBR-ENG-NORTHAMPTONSHIRE": {
+      "value": 823787,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000061",
+        "E06000062"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-NORTHUMBERLAND": {
+      "value": 333975,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000057"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-NOTTINGHAMSHIRE": {
+      "value": 1188091,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000024",
+        "E06000018"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-OXFORDSHIRE": {
+      "value": 769831,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000025"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-RUTLAND": {
+      "value": 41629,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000017"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-SHROPSHIRE": {
+      "value": 532540,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000051",
+        "E06000020"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-SOMERSET": {
+      "value": 1019030,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000066",
+        "E06000022",
+        "E06000024"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-SOUTH-YORKSHIRE": {
+      "value": 1434478,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E11000003"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-STAFFORDSHIRE": {
+      "value": 1185355,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000028",
+        "E06000021"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-SUFFOLK": {
+      "value": 789850,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000029"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-SURREY": {
+      "value": 1255255,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000030"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-TYNE-AND-WEAR": {
+      "value": 1177073,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E11000007"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-WARWICKSHIRE": {
+      "value": 644021,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000031"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-WEST-MIDLANDS": {
+      "value": 3027190,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E11000005"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-WEST-SUSSEX": {
+      "value": 921240,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000032"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-WEST-YORKSHIRE": {
+      "value": 2424324,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E11000006"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-WILTSHIRE": {
+      "value": 771678,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E06000054",
+        "E06000030"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GBR-ENG-WORCESTERSHIRE": {
+      "value": 624209,
+      "year": 2025,
+      "referenceDate": "2025-06-30",
+      "source": "ons",
+      "definition": "Оценка обычного постоянного населения",
+      "statisticalCodes": [
+        "E10000034"
+      ],
+      "note": "Сумма входящих местных органов власти; City of London учитывается отдельно от Greater London."
+    },
+    "GRC-26713481B13719921321351": {
+      "value": 1795669,
+      "year": 2021,
+      "referenceDate": "2021-10-22",
+      "source": "elstat",
+      "definition": "Постоянное население",
+      "note": "Перепись региона без автономного Афона; Афон показан отдельно."
+    },
+    "GRC-26713481B15414951167649": {
+      "value": 507168,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL64"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B23289270995723": {
+      "value": 676040,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL61"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B40019078264500": {
+      "value": 1746,
+      "year": 2021,
+      "referenceDate": "2021-10-22",
+      "source": "elstat",
+      "definition": "Перепись постоянного населения"
+    },
+    "GRC-26713481B43531359458460": {
+      "value": 529165,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL65"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B43979888680650": {
+      "value": 207927,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL41"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B45081925310995": {
+      "value": 635954,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL63"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B52894455575268": {
+      "value": 327036,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL42"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B5850386890635": {
+      "value": 3764272,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL30"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B784345685192": {
+      "value": 324061,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL54"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B79456911033966": {
+      "value": 621121,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL43"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B79624114853188": {
+      "value": 243575,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL53"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B82557054028644": {
+      "value": 198421,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL62"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "GRC-26713481B84884565940454": {
+      "value": 565195,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "EL51"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "IRL-CONNACHT": {
+      "value": 591363,
+      "year": 2022,
+      "referenceDate": "2022-04-03",
+      "source": "cso",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "2ae19629-1435-13a3-e055-000000000001",
+        "2ae19629-14a5-13a3-e055-000000000001",
+        "2ae19629-148e-13a3-e055-000000000001",
+        "2ae19629-1493-13a3-e055-000000000001",
+        "2ae19629-1497-13a3-e055-000000000001",
+        "2ae19629-1498-13a3-e055-000000000001"
+      ],
+      "note": "Перепись 2022 года: сумма графств исторической провинции. Для Ulster учтены только Cavan, Donegal и Monaghan."
+    },
+    "IRL-LEINSTER": {
+      "value": 2870354,
+      "year": 2022,
+      "referenceDate": "2022-04-03",
+      "source": "cso",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "2ae19629-1492-13a3-e055-000000000001",
+        "2ae19629-1433-13a3-e055-000000000001",
+        "2ae19629-149f-13a3-e055-000000000001",
+        "2ae19629-14a0-13a3-e055-000000000001",
+        "2ae19629-14a1-13a3-e055-000000000001",
+        "2ae19629-14a7-13a3-e055-000000000001",
+        "2ae19629-14a8-13a3-e055-000000000001",
+        "2ae19629-148d-13a3-e055-000000000001",
+        "2ae19629-1490-13a3-e055-000000000001",
+        "2ae19629-1491-13a3-e055-000000000001",
+        "2ae19629-1494-13a3-e055-000000000001",
+        "2ae19629-1496-13a3-e055-000000000001",
+        "2ae19629-149b-13a3-e055-000000000001",
+        "2ae19629-149c-13a3-e055-000000000001",
+        "2ae19629-149e-13a3-e055-000000000001"
+      ],
+      "note": "Перепись 2022 года: сумма графств исторической провинции. Для Ulster учтены только Cavan, Donegal и Monaghan."
+    },
+    "IRL-MUNSTER": {
+      "value": 1373346,
+      "year": 2022,
+      "referenceDate": "2022-04-03",
+      "source": "cso",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "2ae19629-14a2-13a3-e055-000000000001",
+        "2ae19629-1434-13a3-e055-000000000001",
+        "2ae19629-14a3-13a3-e055-000000000001",
+        "2ae19629-14a6-13a3-e055-000000000001",
+        "2ae19629-148f-13a3-e055-000000000001",
+        "2ae19629-1499-13a3-e055-000000000001",
+        "2ae19629-149a-13a3-e055-000000000001"
+      ],
+      "note": "Перепись 2022 года: сумма графств исторической провинции. Для Ulster учтены только Cavan, Donegal и Monaghan."
+    },
+    "IRL-ULSTER": {
+      "value": 314076,
+      "year": 2022,
+      "referenceDate": "2022-04-03",
+      "source": "cso",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "2ae19629-149d-13a3-e055-000000000001",
+        "2ae19629-14a4-13a3-e055-000000000001",
+        "2ae19629-1495-13a3-e055-000000000001"
+      ],
+      "note": "Перепись 2022 года: сумма графств исторической провинции. Для Ulster учтены только Cavan, Donegal и Monaghan."
+    },
+    "ITA-23120603B10307341449000": {
+      "value": 1086252,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITH1",
+        "ITH2"
+      ],
+      "definition": "Население на 1 января",
+      "note": "Сумма статистических единиц одного года."
+    },
+    "ITA-23120603B14973764900567": {
+      "value": 5582337,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITF3"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B26790412086965": {
+      "value": 851473,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITI2"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B31191283857260": {
+      "value": 1562381,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITG2"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B46910528128522": {
+      "value": 122532,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITC2"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B49951072422318": {
+      "value": 1480545,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITI3"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B53770696546298": {
+      "value": 1193284,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITH4"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B55310757134450": {
+      "value": 1834646,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITF6"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B59117294159851": {
+      "value": 530004,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITF5"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B60242334488993": {
+      "value": 287814,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITF2"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B60396852211": {
+      "value": 1269118,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITF1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B69806914684511": {
+      "value": 3877395,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITF4"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B71310509030930": {
+      "value": 10033918,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITC4"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B83257595874769": {
+      "value": 4251868,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITC1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B86473916475875": {
+      "value": 5709178,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITI4"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B90496191820000": {
+      "value": 1510143,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITC3"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B91569774900330": {
+      "value": 4787390,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITG1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B93883326437068": {
+      "value": 4461998,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITH5"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B95153686365028": {
+      "value": 3657716,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITI1"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "ITA-23120603B96721879872173": {
+      "value": 4853472,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ITH3"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "LTU-WHOLE": {
+      "value": 2890664,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "LT"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "LUX-WHOLE": {
+      "value": 681973,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "LU"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "LVA-WHOLE": {
+      "value": 1860565,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "LV"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "MDA-25212430B22111314945643": {
+      "value": 374954,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "pmr",
+      "definition": "Постоянное население",
+      "coverage": "approximate",
+      "note": "Сумма пяти районов и Тирасполя по данным статистики Приднестровья, без Бендер. Статистическая территория отличается от контура MD-SN: в частности, контроль отдельных сёл и охват левобережья неодинаковы."
+    },
+    "MDA-25212430B55748044124793": {
+      "value": 103668,
+      "year": 2024,
+      "referenceDate": "2024-04-08",
+      "source": "moldova",
+      "definition": "Перепись населения с обычным местом жительства"
+    },
+    "MDA-REST": {
+      "value": 2305539,
+      "year": 2024,
+      "referenceDate": "2024-04-08",
+      "source": "moldova",
+      "definition": "Учтённое переписью население",
+      "coverage": "partial",
+      "note": "Без Гагаузии. Перепись не охватывает Бендеры и некоторые другие территории вне статистического охвата НБС, входящие в этот контур."
+    },
+    "MKD-WHOLE": {
+      "value": 1822612,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "MK"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "MNE-WHOLE": {
+      "value": 623327,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "ME"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B16797155540126": {
+      "value": 664222,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL12"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B20589914738510": {
+      "value": 3863397,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL36"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B22599492826393": {
+      "value": 602833,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL11"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B35805836723247": {
+      "value": 506529,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL13"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B50931527975892": {
+      "value": 392969,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL34"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B59803137683520": {
+      "value": 456395,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL23"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B61109061302483": {
+      "value": 2664047,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL41"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B62088949697264": {
+      "value": 2161358,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL22"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B65865334514334": {
+      "value": 1195789,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL21"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B7118592816602": {
+      "value": 2992016,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL32"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B73841275384957": {
+      "value": 1409144,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL35"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NLD-6811986B81587772601460": {
+      "value": 1135328,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "NL42"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "NOR-03": {
+      "value": 724290,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "03"
+      ]
+    },
+    "NOR-11": {
+      "value": 504496,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "11"
+      ]
+    },
+    "NOR-15": {
+      "value": 272413,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "15"
+      ]
+    },
+    "NOR-18": {
+      "value": 243582,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "18"
+      ]
+    },
+    "NOR-31": {
+      "value": 314407,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "31"
+      ]
+    },
+    "NOR-32": {
+      "value": 740680,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "32"
+      ]
+    },
+    "NOR-33": {
+      "value": 271248,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "33"
+      ]
+    },
+    "NOR-34": {
+      "value": 377556,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "34"
+      ]
+    },
+    "NOR-39": {
+      "value": 258071,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "39"
+      ]
+    },
+    "NOR-40": {
+      "value": 177863,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "40"
+      ]
+    },
+    "NOR-42": {
+      "value": 322188,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "42"
+      ]
+    },
+    "NOR-46": {
+      "value": 655210,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "46"
+      ]
+    },
+    "NOR-50": {
+      "value": 486815,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "50"
+      ]
+    },
+    "NOR-55": {
+      "value": 170479,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "55"
+      ]
+    },
+    "NOR-56": {
+      "value": 75042,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "ssb",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "56"
+      ]
+    },
+    "POL-17162690B16879770934003": {
+      "value": 4190666,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL22"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B18723007704312": {
+      "value": 1286015,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL62"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B20834640531728": {
+      "value": 1112681,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL72"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B23777949290372": {
+      "value": 1073623,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL84"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B34878575347312": {
+      "value": 1571895,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL42"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B37876665907262": {
+      "value": 1920440,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL61"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B44985096553766": {
+      "value": 1947062,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL82"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B67655395900928": {
+      "value": 3319792,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL21"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B67719337891950": {
+      "value": 884774,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL52"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B69262761487853": {
+      "value": 1920632,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL81"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B71775569625336": {
+      "value": 3433354,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL41"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B77437931625010": {
+      "value": 2297741,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL63"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B84565288021286": {
+      "value": 5484110,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL91",
+        "PL92"
+      ],
+      "definition": "Население на 1 января",
+      "note": "Сумма статистических единиц одного года."
+    },
+    "POL-17162690B86810837764805": {
+      "value": 2312616,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL71"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B87710404837799": {
+      "value": 943794,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL43"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "POL-17162690B9130125042960": {
+      "value": 2798300,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "PL51"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "RUS-28173009B11091203162490": {
+      "value": 47778,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-CHU"
+      ]
+    },
+    "RUS-28173009B16533507618293": {
+      "value": 566960,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-NGR"
+      ]
+    },
+    "RUS-28173009B16834140201491": {
+      "value": 758895,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-MO"
+      ]
+    },
+    "RUS-28173009B18259284234443": {
+      "value": 3039421,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-NIZ"
+      ]
+    },
+    "RUS-28173009B19466568926459": {
+      "value": 3385124,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-CHE"
+      ]
+    },
+    "RUS-28173009B19676032168465": {
+      "value": 13274285,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-MOW"
+      ]
+    },
+    "RUS-28173009B21210279674314": {
+      "value": 714785,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KO"
+      ]
+    },
+    "RUS-28173009B21415173479872": {
+      "value": 2369405,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SAR"
+      ]
+    },
+    "RUS-28173009B21416061393121": {
+      "value": 1482025,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-BEL"
+      ]
+    },
+    "RUS-28173009B2185273376578": {
+      "value": 134544,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-MAG"
+      ]
+    },
+    "RUS-28173009B24080199016459": {
+      "value": 753046,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-AMU"
+      ]
+    },
+    "RUS-28173009B24428243574749": {
+      "value": 3259890,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-DA"
+      ]
+    },
+    "RUS-28173009B25497318303482": {
+      "value": 3112566,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SAM"
+      ]
+    },
+    "RUS-28173009B26811060113320": {
+      "value": 1039728,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-TOM"
+      ]
+    },
+    "RUS-28173009B2687808218031": {
+      "value": 2260045,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-VOR"
+      ]
+    },
+    "RUS-28173009B27844369294009": {
+      "value": 2786540,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-NVS"
+      ]
+    },
+    "RUS-28173009B29209288820923": {
+      "value": 983838,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ZAB"
+      ]
+    },
+    "RUS-28173009B30008444211385": {
+      "value": 210095,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-AL"
+      ]
+    },
+    "RUS-28173009B30250450380208": {
+      "value": 4042377,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-BA"
+      ]
+    },
+    "RUS-28173009B3082792446388": {
+      "value": 41906,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-NEN"
+      ]
+    },
+    "RUS-28173009B31225333555943": {
+      "value": 1120412,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KIR"
+      ]
+    },
+    "RUS-28173009B31773571872137": {
+      "value": 857096,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SMO"
+      ]
+    },
+    "RUS-28173009B34434912986355": {
+      "value": 1427282,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-UD"
+      ]
+    },
+    "RUS-28173009B36269087375583": {
+      "value": 457597,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SAK"
+      ]
+    },
+    "RUS-28173009B38848907206629": {
+      "value": 1180174,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-YAR"
+      ]
+    },
+    "RUS-28173009B3932420572168": {
+      "value": 686181,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ORL"
+      ]
+    },
+    "RUS-28173009B40138449315491": {
+      "value": 1032904,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KGD"
+      ]
+    },
+    "RUS-28173009B41275184158050": {
+      "value": 898490,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-IVA"
+      ]
+    },
+    "RUS-28173009B41832925814017": {
+      "value": 500731,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-AD"
+      ]
+    },
+    "RUS-28173009B42082792489997": {
+      "value": 1456791,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-TUL"
+      ]
+    },
+    "RUS-28173009B42697300509311": {
+      "value": 1165334,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ULY"
+      ]
+    },
+    "RUS-28173009B4400867918714": {
+      "value": 2527219,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KEM"
+      ]
+    },
+    "RUS-28173009B46424166303156": {
+      "value": 4137335,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ROS"
+      ]
+    },
+    "RUS-28173009B46612801043871": {
+      "value": 908214,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KB"
+      ]
+    },
+    "RUS-28173009B46738131000378": {
+      "value": 4019606,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-TA"
+      ]
+    },
+    "RUS-28173009B46831765844996": {
+      "value": 1799659,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-PRI"
+      ]
+    },
+    "RUS-28173009B47279883421777": {
+      "value": 523105,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-YAN"
+      ]
+    },
+    "RUS-28173009B48058606062294": {
+      "value": 1006561,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SA"
+      ]
+    },
+    "RUS-28173009B49563687485750": {
+      "value": 971139,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-BU"
+      ]
+    },
+    "RUS-28173009B50284711669511": {
+      "value": 946657,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-TAM"
+      ]
+    },
+    "RUS-28173009B51962491984110": {
+      "value": 144428,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-YEV"
+      ]
+    },
+    "RUS-28173009B5502896824563": {
+      "value": 1108295,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-LIP"
+      ]
+    },
+    "RUS-28173009B55293521919285": {
+      "value": 338483,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-TY"
+      ]
+    },
+    "RUS-28173009B55422170414647": {
+      "value": 525557,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KK"
+      ]
+    },
+    "RUS-28173009B55503329301013": {
+      "value": 1805806,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-OMS"
+      ]
+    },
+    "RUS-28173009B57295377776076": {
+      "value": 1273488,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KHA"
+      ]
+    },
+    "RUS-28173009B57398385788417": {
+      "value": 267588,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KL"
+      ]
+    },
+    "RUS-28173009B59972517059449": {
+      "value": 1226878,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-PNZ"
+      ]
+    },
+    "RUS-28173009B61240048498251": {
+      "value": 666202,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ME"
+      ]
+    },
+    "RUS-28173009B62882423633207": {
+      "value": 947528,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ARK"
+      ],
+      "note": "Без автономных округов, которые показаны на карте отдельно."
+    },
+    "RUS-28173009B63182593849600": {
+      "value": 1190574,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-TVE"
+      ]
+    },
+    "RUS-28173009B65133456612022": {
+      "value": 2837988,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KYA"
+      ]
+    },
+    "RUS-28173009B68474107072963": {
+      "value": 946580,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-AST"
+      ]
+    },
+    "RUS-28173009B69714658607289": {
+      "value": 1074402,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-RYA"
+      ]
+    },
+    "RUS-28173009B70023447378008": {
+      "value": 288200,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KAM"
+      ]
+    },
+    "RUS-28173009B70218250039968": {
+      "value": 651363,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-MUR"
+      ]
+    },
+    "RUS-28173009B70678486994214": {
+      "value": 560825,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KOS"
+      ]
+    },
+    "RUS-28173009B71296032393878": {
+      "value": 744465,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KGN"
+      ]
+    },
+    "RUS-28173009B7235812138525": {
+      "value": 678826,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SE"
+      ]
+    },
+    "RUS-28173009B731487536241": {
+      "value": 1781782,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KHM"
+      ]
+    },
+    "RUS-28173009B74836580104791": {
+      "value": 8775735,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-MOS"
+      ]
+    },
+    "RUS-28173009B75413689166101": {
+      "value": 534491,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-IN"
+      ]
+    },
+    "RUS-28173009B76603557910928": {
+      "value": 1816898,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ORE"
+      ]
+    },
+    "RUS-28173009B77673499236961": {
+      "value": 1626809,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-TYU"
+      ],
+      "note": "Без автономных округов, которые показаны на карте отдельно."
+    },
+    "RUS-28173009B78872068540735": {
+      "value": 2322292,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-IRK"
+      ]
+    },
+    "RUS-28173009B80457268982215": {
+      "value": 2099186,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-ALT"
+      ]
+    },
+    "RUS-28173009B83675725671802": {
+      "value": 5842238,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KDA"
+      ]
+    },
+    "RUS-28173009B86476767341172": {
+      "value": 574480,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-PSK"
+      ]
+    },
+    "RUS-28173009B8796515134902": {
+      "value": 5652922,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SPE"
+      ]
+    },
+    "RUS-28173009B89423349656391": {
+      "value": 2884363,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-STA"
+      ]
+    },
+    "RUS-28173009B90356867269748": {
+      "value": 2434046,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-VGG"
+      ]
+    },
+    "RUS-28173009B90469334921421": {
+      "value": 2483633,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-PER"
+      ]
+    },
+    "RUS-28173009B90810482533567": {
+      "value": 2059479,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-LEN"
+      ]
+    },
+    "RUS-28173009B91128253561055": {
+      "value": 1297936,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-VLA"
+      ]
+    },
+    "RUS-28173009B9124867987859": {
+      "value": 1132795,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-BRY"
+      ]
+    },
+    "RUS-28173009B91429860602147": {
+      "value": 1159768,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-CU"
+      ]
+    },
+    "RUS-28173009B92397886288731": {
+      "value": 4221452,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-SVE"
+      ]
+    },
+    "RUS-28173009B94971452660823": {
+      "value": 1049783,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KRS"
+      ]
+    },
+    "RUS-28173009B95588705134862": {
+      "value": 468599,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KC"
+      ]
+    },
+    "RUS-28173009B96664025860642": {
+      "value": 1115371,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-VLG"
+      ]
+    },
+    "RUS-28173009B96976580001980": {
+      "value": 518950,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KR"
+      ]
+    },
+    "RUS-28173009B98838729156012": {
+      "value": 1576552,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-CE"
+      ]
+    },
+    "RUS-28173009B99237675212372": {
+      "value": 1066601,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "RU-KLU"
+      ]
+    },
+    "SVK-25762395B19733540227871": {
+      "value": 686063,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK031"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVK-25762395B28279050649796": {
+      "value": 778799,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK042"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVK-25762395B36213439185612": {
+      "value": 611124,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK032"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVK-25762395B43018944697777": {
+      "value": 565900,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK021"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVK-25762395B46801803338249": {
+      "value": 736385,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK010"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVK-25762395B46915118171536": {
+      "value": 665600,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK023"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVK-25762395B87770954339991": {
+      "value": 565572,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK022"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVK-25762395B99480342603175": {
+      "value": 810008,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SK041"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SVN-WHOLE": {
+      "value": 2130850,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SI"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B20841454082156": {
+      "value": 286546,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE312"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B22015401421101": {
+      "value": 281138,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE331"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B30510620730039": {
+      "value": 2473307,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE110"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B32575645025153": {
+      "value": 308375,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE124"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B33676065986160": {
+      "value": 203351,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE212"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B38650871956455": {
+      "value": 60971,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE214"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B39536810599908": {
+      "value": 1772821,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE232"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B40560830761561": {
+      "value": 284558,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE313"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B42087740049136": {
+      "value": 241458,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE321"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B47712843770727": {
+      "value": 407912,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE121"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B47966181547850": {
+      "value": 1428626,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE224"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B55596512557513": {
+      "value": 345074,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE231"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B56925388039616": {
+      "value": 283384,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE311"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B59709318110176": {
+      "value": 370009,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE211"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B7109819079053": {
+      "value": 281158,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE125"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B77555777280839": {
+      "value": 132839,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE322"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B80953081303888": {
+      "value": 472446,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE123"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B81473328083601": {
+      "value": 157223,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE221"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B90115132982568": {
+      "value": 246352,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE213"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B90281797632670": {
+      "value": 248620,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE332"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "SWE-68755315B98869091115359": {
+      "value": 301542,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "statisticalCodes": [
+        "SE122"
+      ],
+      "definition": "Население на 1 января"
+    },
+    "UKR-14850775B13681962240800": {
+      "value": 1021356,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "07"
+      ]
+    },
+    "UKR-14850775B14512392274127": {
+      "value": 1035772,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "59"
+      ]
+    },
+    "UKR-14850775B15615817748403": {
+      "value": 4059372,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "14"
+      ]
+    },
+    "UKR-14850775B15913324833724": {
+      "value": 2598961,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "63"
+      ]
+    },
+    "UKR-14850775B18105645488844": {
+      "value": 1352283,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "53"
+      ]
+    },
+    "UKR-14850775B19104561075165": {
+      "value": 1351822,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "26"
+      ]
+    },
+    "UKR-14850775B22712718081002": {
+      "value": 2952301,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "80"
+      ]
+    },
+    "UKR-14850775B24260608407062": {
+      "value": 1902249,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Оценка населения Росстата",
+      "note": "Источник — Росстат; статистическая методика отличается от Держстата Украины. Принадлежность и границы региона на карте не изменены."
+    },
+    "UKR-14850775B26941409899318": {
+      "value": 2478133,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "46"
+      ]
+    },
+    "UKR-14850775B31033086218351": {
+      "value": 2102921,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "44"
+      ]
+    },
+    "UKR-14850775B35593196550103": {
+      "value": 890457,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "73"
+      ]
+    },
+    "UKR-14850775B37539954297462": {
+      "value": 1795079,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "32"
+      ]
+    },
+    "UKR-14850775B41808765507575": {
+      "value": 3096485,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "12"
+      ]
+    },
+    "UKR-14850775B53240635394722": {
+      "value": 2351392,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "51"
+      ]
+    },
+    "UKR-14850775B55286662261645": {
+      "value": 959315,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "74"
+      ]
+    },
+    "UKR-14850775B64193679462794": {
+      "value": 903712,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "35"
+      ]
+    },
+    "UKR-14850775B65901307765467": {
+      "value": 1001598,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "65"
+      ]
+    },
+    "UKR-14850775B70667807354554": {
+      "value": 558302,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "rosstat",
+      "definition": "Оценка населения Росстата",
+      "note": "Источник — Росстат; статистическая методика отличается от Держстата Украины. Принадлежность и границы региона на карте не изменены."
+    },
+    "UKR-14850775B78366470925827": {
+      "value": 1228829,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "68"
+      ]
+    },
+    "UKR-14850775B79197734087513": {
+      "value": 1179032,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "18"
+      ]
+    },
+    "UKR-14850775B81694531118507": {
+      "value": 1021713,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "61"
+      ]
+    },
+    "UKR-14850775B82824220650579": {
+      "value": 1244476,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "21"
+      ]
+    },
+    "UKR-14850775B83802928232754": {
+      "value": 1141784,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "56"
+      ]
+    },
+    "UKR-14850775B92888097715572": {
+      "value": 1638462,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "23"
+      ]
+    },
+    "UKR-14850775B93300237551625": {
+      "value": 1509515,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "05"
+      ]
+    },
+    "UKR-14850775B95678810793770": {
+      "value": 1160744,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "71"
+      ]
+    },
+    "UKR-14850775B99856317748721": {
+      "value": 1091821,
+      "year": 2022,
+      "referenceDate": "2022-01-01",
+      "source": "ukrstat",
+      "definition": "Наличное население · довоенная оценка",
+      "note": "Последняя доступная полная довоенная областная серия. Не отражает перемещения населения и изменения после начала полномасштабной войны.",
+      "statisticalCodes": [
+        "48"
+      ]
+    },
+    "VAT-52476719B53484862947726": {
+      "value": 882,
+      "year": 2024,
+      "referenceDate": "2024-12-31",
+      "source": "vatican",
+      "definition": "Постоянное население"
+    },
+    "XKX-WHOLE": {
+      "value": 1582322,
+      "year": 2025,
+      "source": "kosovo",
+      "definition": "Постоянное население"
+    },
+    "MCO-64170238B96397749018979": {
+      "value": 38857,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "monaco",
+      "definition": "Постоянное население"
+    },
+    "HUN-HU21": {
+      "value": 1051169,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "HUN-HU33": {
+      "value": 1183765,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "HUN-HU23": {
+      "value": 845970,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "HUN-HU22": {
+      "value": 974617,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "HUN-HU31": {
+      "value": 1072232,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "HUN-HU12": {
+      "value": 1336134,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "HUN-HU32": {
+      "value": 1390406,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "HUN-HU11": {
+      "value": 1685209,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "SRB-RS22": {
+      "value": 1375863,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "SRB-RS12": {
+      "value": 1720427,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "SRB-RS21": {
+      "value": 1789478,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "SRB-RS11": {
+      "value": 1682015,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-DOBRUDJA": {
+      "value": 582229,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-PIRIN": {
+      "value": 286333,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-SHOPLUK": {
+      "value": 1736649,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-NORTH": {
+      "value": 1041936,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-BALKAN": {
+      "value": 263116,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-COAST-STRANDZHA": {
+      "value": 826440,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-THRACE": {
+      "value": 1460645,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "BGR-GEO-RHODOPES": {
+      "value": 240012,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Постоянное население на 1 января 2025 года; сумма статистических единиц, входящих в регион."
+    },
+    "ROU-HIST-DOBROGEA": {
+      "value": 849352,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-MUNTENIA": {
+      "value": 6128412,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-MOLDOVA": {
+      "value": 3483178,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-OLTENIA": {
+      "value": 1641542,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-TRANSYLVANIA": {
+      "value": 3677137,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-CRISANA": {
+      "value": 1209458,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-BANAT": {
+      "value": 944096,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-SATMAR-MARAMURES": {
+      "value": 656597,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "ROU-HIST-BUCOVINA": {
+      "value": 464043,
+      "year": 2021,
+      "referenceDate": "2021-12-01",
+      "source": "romanian-historical",
+      "definition": "Постоянное население по переписи INS на 1 декабря 2021 года, сгруппированное для исторических регионов.",
+      "coverage": "approximate",
+      "note": "Использована более ранняя перепись 2021 года: сопоставимые данные за 2024–2025 годы в этих исторических границах не найдены. Общины отнесены к региону по центру их территории; пересекающие историческую границу учитываются целиком. Это приближённая группировка переписи, а не отдельная официальная статистика исторического региона."
+    },
+    "CZE-HIST-BOHEMIA": {
+      "value": 6949719,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "czech-historical",
+      "definition": "Постоянное население общин по ČSÚ на 1 января 2025 года, сгруппированное для исторических земель.",
+      "coverage": "approximate",
+      "note": "Расчёт для исторических границ: общины отнесены к землям по центру их территории. Население Остра́вы разделено между Моравией и Силезией по долям жителей городских районов за 2025 год. Другие общины, пересекающие границу, учитываются целиком; официальной отдельной статистикой исторических земель эта сумма не является."
+    },
+    "CZE-HIST-MORAVIA": {
+      "value": 3158071,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "czech-historical",
+      "definition": "Постоянное население общин по ČSÚ на 1 января 2025 года, сгруппированное для исторических земель.",
+      "coverage": "approximate",
+      "note": "Расчёт для исторических границ: общины отнесены к землям по центру их территории. Население Остра́вы разделено между Моравией и Силезией по долям жителей городских районов за 2025 год. Другие общины, пересекающие границу, учитываются целиком; официальной отдельной статистикой исторических земель эта сумма не является."
+    },
+    "CZE-HIST-SILESIA": {
+      "value": 801710,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "czech-historical",
+      "definition": "Постоянное население общин по ČSÚ на 1 января 2025 года, сгруппированное для исторических земель.",
+      "coverage": "approximate",
+      "note": "Расчёт для исторических границ: общины отнесены к землям по центру их территории. Население Остра́вы разделено между Моравией и Силезией по долям жителей городских районов за 2025 год. Другие общины, пересекающие границу, учитываются целиком; официальной отдельной статистикой исторических земель эта сумма не является."
+    },
+    "HRV-KVARNER": {
+      "value": 309190,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Население на 1 января",
+      "statisticalCodes": [
+        "HR031",
+        "HR032"
+      ],
+      "note": "Сумма населения жупаний, объединённых по карте пользователя."
+    },
+    "HRV-DALMATIA": {
+      "value": 808583,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Население на 1 января",
+      "statisticalCodes": [
+        "HR037",
+        "HR033",
+        "HR034",
+        "HR035"
+      ],
+      "note": "Сумма населения жупаний, объединённых по карте пользователя."
+    },
+    "HRV-CONTINENTAL": {
+      "value": 1911544,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Население на 1 января",
+      "statisticalCodes": [
+        "HR027",
+        "HR028",
+        "HR065",
+        "HR063",
+        "HR064",
+        "HR021",
+        "HR050",
+        "HR062",
+        "HR061"
+      ],
+      "note": "Сумма населения жупаний, объединённых по карте пользователя."
+    },
+    "HRV-SLAVONIA": {
+      "value": 640324,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Население на 1 января",
+      "statisticalCodes": [
+        "HR023",
+        "HR024",
+        "HR022",
+        "HR026",
+        "HR025"
+      ],
+      "note": "Сумма населения жупаний, объединённых по карте пользователя."
+    },
+    "HRV-ISTRIA": {
+      "value": 204709,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Население на 1 января",
+      "statisticalCodes": [
+        "HR036"
+      ],
+      "note": "Сумма населения жупаний, объединённых по карте пользователя."
+    },
+    "MLT-WHOLE": {
+      "value": 574250,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "nso",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "14",
+        "21",
+        "41",
+        "46",
+        "47",
+        "52",
+        "59",
+        "60",
+        "61",
+        "28",
+        "32",
+        "24",
+        "11",
+        "19",
+        "22",
+        "23",
+        "25",
+        "30",
+        "42",
+        "43",
+        "48",
+        "54",
+        "56",
+        "63",
+        "64",
+        "66",
+        "53",
+        "12",
+        "13",
+        "68",
+        "37",
+        "38",
+        "39",
+        "44",
+        "55",
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "17",
+        "18",
+        "29",
+        "45",
+        "62",
+        "65",
+        "33",
+        "34",
+        "57",
+        "6",
+        "27",
+        "58",
+        "10",
+        "15",
+        "20",
+        "26",
+        "35",
+        "36",
+        "31",
+        "40",
+        "49",
+        "51",
+        "67",
+        "2",
+        "7",
+        "9",
+        "16",
+        "50"
+      ],
+      "note": "Общее постоянное население Мальты, включая Гозо и Комино. Сумма всех местных советов."
+    },
+    "PRT-NORTE": {
+      "value": 3363090,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "ine",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "11D0404",
+        "11D1704",
+        "11E0411",
+        "11E0401",
+        "11B1702",
+        "11D1707",
+        "11D0403",
+        "11D1710",
+        "11E0410",
+        "11B1709",
+        "11D1711",
+        "11E0406",
+        "1191705",
+        "1120310",
+        "11D0409",
+        "1111603",
+        "11E0412",
+        "11E0408",
+        "11B1706",
+        "1111605",
+        "1111610",
+        "11D1701",
+        "1111606",
+        "1190311",
+        "11B1713",
+        "11E0405",
+        "11B1712",
+        "11D1708",
+        "1190304",
+        "1111608",
+        "11C0305",
+        "11C1302",
+        "1111602",
+        "1111604",
+        "1120301",
+        "1111601",
+        "11E0407",
+        "1190309",
+        "1190314",
+        "11B1703",
+        "11E0402",
+        "1120306",
+        "11A1318",
+        "1111607",
+        "1120313",
+        "1190307",
+        "11C1305",
+        "11C1307",
+        "11C1301",
+        "11D1714",
+        "11C1303",
+        "11C1309",
+        "11A1314",
+        "11C1311",
+        "11A1313",
+        "11A1316",
+        "11A1310",
+        "1111609",
+        "11A1315",
+        "1120302",
+        "11A1306",
+        "1190312",
+        "1190308",
+        "11A1304",
+        "11A1308",
+        "1120303",
+        "11A1312",
+        "11A1317"
+      ],
+      "note": "Группировка по карте пользователя. Округа объединены целиком; девять северных муниципалитетов Setúbal входят в Lisboa, четыре южных — в Alentejo. Сумма официальной статистики соответствующих муниципалитетов и автономных регионов."
+    },
+    "PRT-CENTRO": {
+      "value": 2394194,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "ine",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "11D1812",
+        "1931007",
+        "1960908",
+        "1950510",
+        "1920612",
+        "1950511",
+        "1931013",
+        "1920606",
+        "1960905",
+        "1950507",
+        "1960909",
+        "1941822",
+        "1950506",
+        "11D1819",
+        "1960904",
+        "1940901",
+        "11D1818",
+        "1931008",
+        "11D1801",
+        "1960902",
+        "1920614",
+        "11D0914",
+        "1960501",
+        "1931002",
+        "11D1815",
+        "1960903",
+        "1950508",
+        "1941811",
+        "11D1820",
+        "1920617",
+        "1960913",
+        "1960910",
+        "1950505",
+        "1921808",
+        "1960911",
+        "11C1813",
+        "1941802",
+        "1941824",
+        "11D1807",
+        "1910112",
+        "1941810",
+        "1941814",
+        "1941817",
+        "1920601",
+        "1920616",
+        "1910117",
+        "1960906",
+        "1931003",
+        "1920609",
+        "1920608",
+        "1920613",
+        "1941803",
+        "1D11012",
+        "1941809",
+        "1D11005",
+        "1950509",
+        "1941816",
+        "11C0106",
+        "1931004",
+        "1D11011",
+        "11C1804",
+        "1920615",
+        "1920604",
+        "1920607",
+        "1941806",
+        "1920111",
+        "1920611",
+        "11A0104",
+        "1960912",
+        "11A0119",
+        "11A0116",
+        "11D1805",
+        "1931016",
+        "1920610",
+        "1910118",
+        "1910114",
+        "1910102",
+        "1941821",
+        "1910108",
+        "1960504",
+        "1910103",
+        "1D11014",
+        "11A0107",
+        "1920602",
+        "1960907",
+        "1910110",
+        "1931010",
+        "1910101",
+        "1960503",
+        "1931015",
+        "1910115",
+        "1950502",
+        "1D11006",
+        "1D11001",
+        "1920605",
+        "11A0113",
+        "1910105",
+        "1941823",
+        "11A0109",
+        "1931009",
+        "1920603"
+      ],
+      "note": "Группировка по карте пользователя. Округа объединены целиком; девять северных муниципалитетов Setúbal входят в Lisboa, четыре южных — в Alentejo. Сумма официальной статистики соответствующих муниципалитетов и автономных регионов."
+    },
+    "PRT-ALENTEJO": {
+      "value": 983747,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "ine",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "1C20204",
+        "1C20203",
+        "1C40708",
+        "1C31202",
+        "1C31211",
+        "1C31210",
+        "1C31208",
+        "1C31205",
+        "1C31201",
+        "1C31209",
+        "1C31206",
+        "1C31203",
+        "1D21417",
+        "1D21408",
+        "1C40707",
+        "1C31215",
+        "1C20207",
+        "1C40701",
+        "1C20212",
+        "1C20214",
+        "1C40713",
+        "1D31412",
+        "1C40709",
+        "1C20209",
+        "1C31212",
+        "1D21413",
+        "1C40710",
+        "1C40703",
+        "1C40702",
+        "1C20202",
+        "1C20206",
+        "1C40714",
+        "1D31404",
+        "1D21420",
+        "1D21411",
+        "1C31204",
+        "1D31407",
+        "1C20201",
+        "1C20208",
+        "1C40711",
+        "1C11501",
+        "1C40704",
+        "1C40712",
+        "1D21402",
+        "1C20210",
+        "1C20213",
+        "1C11505",
+        "1C31213",
+        "1C40706",
+        "1C11513",
+        "1D31409",
+        "1C31207",
+        "1D31415",
+        "1C31214",
+        "1D31403",
+        "1D21410",
+        "1D31414",
+        "1D31406",
+        "1C11509",
+        "1D31405",
+        "1D21401",
+        "1D21419",
+        "1D21418",
+        "1C20205",
+        "1C10211",
+        "1D21421",
+        "1C40705",
+        "1D31416"
+      ],
+      "note": "Группировка по карте пользователя. Округа объединены целиком; девять северных муниципалитетов Setúbal входят в Lisboa, четыре южных — в Alentejo. Сумма официальной статистики соответствующих муниципалитетов и автономных регионов."
+    },
+    "PRT-LISBOA": {
+      "value": 3593510,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "ine",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "1D11112",
+        "1D11104",
+        "1D11102",
+        "1B01502",
+        "1D31103",
+        "1D11108",
+        "1D11101",
+        "1B01511",
+        "1B01507",
+        "1B01508",
+        "1B01506",
+        "1B01504",
+        "1D11113",
+        "1A01109",
+        "1B01512",
+        "1A01114",
+        "1A01116",
+        "1A01110",
+        "1B01510",
+        "1B01503",
+        "1A01115",
+        "1A01107",
+        "1A01105",
+        "1A01111",
+        "1A01106"
+      ],
+      "note": "Группировка по карте пользователя. Округа объединены целиком; девять северных муниципалитетов Setúbal входят в Lisboa, четыре южных — в Alentejo. Сумма официальной статистики соответствующих муниципалитетов и автономных регионов."
+    },
+    "PRT-ALGARVE": {
+      "value": 578032,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "ine",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "1500802",
+        "1500809",
+        "1500815",
+        "1500803",
+        "1500804",
+        "1500812",
+        "1500816",
+        "1500806",
+        "1500814",
+        "1500807",
+        "1500813",
+        "1500810",
+        "1500801",
+        "1500811",
+        "1500805",
+        "1500808"
+      ],
+      "note": "Группировка по карте пользователя. Округа объединены целиком; девять северных муниципалитетов Setúbal входят в Lisboa, четыре южных — в Alentejo. Сумма официальной статистики соответствующих муниципалитетов и автономных регионов."
+    },
+    "PRT-ACORES": {
+      "value": 245328,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "ine",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "2"
+      ],
+      "note": "Группировка по карте пользователя. Округа объединены целиком; девять северных муниципалитетов Setúbal входят в Lisboa, четыре южных — в Alentejo. Сумма официальной статистики соответствующих муниципалитетов и автономных регионов."
+    },
+    "PRT-MADEIRA": {
+      "value": 266130,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "ine",
+      "definition": "Постоянное население",
+      "statisticalCodes": [
+        "3"
+      ],
+      "note": "Группировка по карте пользователя. Округа объединены целиком; девять северных муниципалитетов Setúbal входят в Lisboa, четыре южных — в Alentejo. Сумма официальной статистики соответствующих муниципалитетов и автономных регионов."
+    },
+    "CYP-SOUTH": {
+      "value": 983000,
+      "year": 2024,
+      "referenceDate": "2024-12-31",
+      "source": "cystat",
+      "definition": "Население в статистическом охвате CYSTAT",
+      "note": "Оценка CYSTAT для территории под контролем правительства Республики Кипр. Британские базы и буферная зона включены в южную часть карты для деления острова на две области, но не охвачены этим показателем населения. Исходные значения округлены до сотен.",
+      "coverage": "partial",
+      "rounding": 100
+    },
+    "CYP-NORTH": {
+      "value": 489308,
+      "year": 2024,
+      "referenceDate": "2024-12-31",
+      "source": "northCyprus",
+      "definition": "Официальная демографическая проекция населения на конец года",
+      "note": "Statistical Yearbook 2024, таблицы B2 и B4 (страницы 19 и 21). Проекция обновлена в октябре 2024 года; опубликована в январе 2026 года. Показатель относится ко всей северной части, включая районы за пределами исторического округа Kyrenia."
+    },
+    "ISL-WHOLE": {
+      "value": 389444,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "iceland",
+      "definition": "Постоянное население",
+      "note": "Население всей Исландии; сумма 61 муниципального образования по данным Statistics Iceland на 1 января 2025 года."
+    },
+    "ALB-WHOLE": {
+      "value": 2363314,
+      "year": 2025,
+      "referenceDate": "2025-01-01",
+      "source": "eurostat",
+      "definition": "Население на 1 января",
+      "statisticalCodes": [
+        "AL011",
+        "AL012",
+        "AL013",
+        "AL014",
+        "AL015",
+        "AL021",
+        "AL022",
+        "AL031",
+        "AL032",
+        "AL033",
+        "AL034",
+        "AL035"
+      ],
+      "note": "Население страны: сумма 12 административных единиц из исходного набора за одну дату."
+    },
+    "AND-WHOLE": {
+      "value": 89058,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "andorra",
+      "definition": "Постоянное население",
+      "note": "Население страны: сумма 7 административных единиц из исходного набора за одну дату."
+    },
+    "LIE-WHOLE": {
+      "value": 41228,
+      "year": 2025,
+      "referenceDate": "2025-12-31",
+      "source": "lie",
+      "definition": "Постоянное население",
+      "note": "Население страны: сумма 11 административных единиц из исходного набора за одну дату."
+    },
+    "SMR-WHOLE": {
+      "value": 34059,
+      "year": 2025,
+      "referenceDate": "2025-03-31",
+      "source": "smr",
+      "definition": "Постоянное население",
+      "note": "Население страны: сумма 9 административных единиц из исходного набора за одну дату."
+    }
+  },
+  "sources": {
+    "eurostat": {
+      "name": "Eurostat · demo_r_pjanaggr3",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_pjanaggr3/default/table?lang=en"
+    },
+    "ssb": {
+      "name": "Statistics Norway · 11342",
+      "url": "https://www.ssb.no/en/statbank/table/11342/"
+    },
+    "iceland": {
+      "name": "Statistics Iceland · MAN02005",
+      "url": "https://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__mannfjoldi__2_byggdir__sveitarfelog/MAN02005.px/"
+    },
+    "lie": {
+      "name": "Amt für Statistik Liechtenstein · 211.002",
+      "url": "https://www.statistikportal.li/etab/211.002"
+    },
+    "ine": {
+      "name": "INE Portugal · 0012918",
+      "url": "https://www.ine.pt/xurl/indx/0012918/PT"
+    },
+    "cso": {
+      "name": "CSO Ireland · Census 2022, FY003A",
+      "url": "https://data.cso.ie/table/FY003A"
+    },
+    "nso": {
+      "name": "NSO Malta · население муниципалитетов",
+      "url": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Documents/Population%20Gaz%2014.8.pdf"
+    },
+    "belstat": {
+      "name": "Белстат · население на 1 января 2025",
+      "url": "https://www.belstat.gov.by/upload/iblock/e1d/fw6q0hxkv3wmuqsqthztn49vpszatpj5.pdf"
+    },
+    "elstat": {
+      "name": "ELSTAT · Census 2021",
+      "url": "https://www.statistics.gr/el/2021-census-res-pop-results"
+    },
+    "andorra": {
+      "name": "Estadística Andorra · таблица City Population",
+      "url": "https://www.citypopulation.de/en/andorra/",
+      "originalUrl": "https://www.estadistica.ad"
+    },
+    "smr": {
+      "name": "Ufficio Nazionale di Statistica San Marino",
+      "url": "https://www.statistica.sm/pub2/StatisticaSM/dam/jcr%3A489aa8b6-40f7-4903-9d29-5c13e27dcf6d/Bollettino_202503.pdf"
+    },
+    "ons": {
+      "name": "ONS · Mid-year estimates 2025",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales"
+    },
+    "nomis": {
+      "name": "ONS / Nomis · population estimates",
+      "url": "https://www.nomisweb.co.uk/sources/pest"
+    },
+    "moldova": {
+      "name": "НБС Молдовы · перепись 2024",
+      "url": "https://statistica.gov.md/files/files/serii_de_timp/recensamant_2024/date_finale/Date_finale_RPL_2024_15_07_25.xlsx"
+    },
+    "rosstat": {
+      "name": "Росстат · таблица Roschart",
+      "url": "https://roschart.ru/en/dataset/okpopul-comp2025-site-ocenka-chislennosti-postoyannogo-nasel",
+      "originalUrl": "https://rosstat.gov.ru/storage/mediabank/OkPopul_Comp2025_Site.xlsx"
+    },
+    "ukrstat": {
+      "name": "Держстат України · население на 1 января 2022",
+      "url": "https://www.ukrstat.gov.ua/druk/publicat/kat_u/2022/zb/05/zb_Nas.pdf",
+      "mirrorUrl": "https://www.citypopulation.de/en/ukraine/admin/"
+    },
+    "fzs": {
+      "name": "Federalni zavod za statistiku BiH",
+      "url": "https://fzs.ba/wp-content/uploads/2025/08/14.2.1.pdf"
+    },
+    "rzs": {
+      "name": "Republički zavod za statistiku RS",
+      "url": "https://rzs.rs.ba/static/uploads/saopstenja/stanovnistvo/procene_stanovnistva/2013-2024/Procjene_Stanovnistva_1996_2024.xlsx"
+    },
+    "bhas": {
+      "name": "BHAS · демография округа Брчко 2020–2024",
+      "url": "https://bhas.gov.ba/data/Publikacije/Bilteni/2025/BRC_07_2024_Y4_1_BS.pdf"
+    },
+    "vatican": {
+      "name": "Государство Ватикан · население",
+      "url": "https://www.vaticanstate.va/en/state-and-government/general-informations/population.html"
+    },
+    "monaco": {
+      "name": "Journal de Monaco · официальная численность",
+      "url": "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8795/Arrete-Ministeriel-n-2026-174-du-10-avril-2026-relatif-a-la-publication-du-chiffre-officiel-de-la-population-de-la-Principaute-de-Monaco"
+    },
+    "kosovo": {
+      "name": "Kosovo Agency of Statistics",
+      "url": "https://ask.rks-gov.net/"
+    },
+    "pmr": {
+      "name": "Статслужба Приднестровья · таблица City Population",
+      "url": "https://www.citypopulation.de/en/moldova/transnistria/"
+    },
+    "cystat": {
+      "name": "CYSTAT · Cyprus in Figures 2025, таблица за 2024",
+      "url": "https://library.cystat.gov.cy/NEW/CYPRUS_IN_FIGURES-2025-EN-121225.pdf"
+    },
+    "northCyprus": {
+      "name": "Статистический институт Северного Кипра · Statistical Yearbook 2024, проекция населения",
+      "url": "https://istatistik.gov.ct.tr/Portals/39/ISTATIISTIK_YILLIK_2024_1.pdf"
+    },
+    "czech-historical": {
+      "name": "ČSÚ · общины 2025; расчёт для исторических земель",
+      "url": "https://csu.gov.cz/produkty/population-of-municipalities-t4l3n8d2iw",
+      "originalUrl": "https://csu.gov.cz/docs/107508/ebed5ef3-dca1-baf2-c0d3-824b0893086f/1300722503.xlsx?version=1.0",
+      "supportingUrl": "https://www.ostrava.cz/cs/urad/hledam-informace/aktualni-informace/pocet-obyvatel-ve-spravnim-obvodu-statutarniho-mesta-ostravy/copy8_of_Obvody.pdf",
+      "supportingName": "Острава: население городских районов"
+    },
+    "romanian-historical": {
+      "name": "INS · перепись 2021; расчёт для исторических регионов",
+      "url": "https://www.recensamantromania.ro/rezultate-rpl-2021/rezultate-definitive/",
+      "originalUrl": "https://www.recensamantromania.ro/wp-content/uploads/2023/05/Tabel-1.03_1.3.1-si-1.03.2.xls"
+    }
+  },
+  "updated": "2026-10-03"
+}

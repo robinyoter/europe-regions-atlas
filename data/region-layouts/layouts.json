@@ -1,0 +1,716 @@
+[
+  {
+    "iso": "HUN",
+    "level": "NUTS2",
+    "year": "2024",
+    "description": "Статистический регион",
+    "source": {
+      "source": "Eurostat GISCO NUTS 2024 — administrative units merged into larger regions",
+      "license": "Eurostat GISCO reuse conditions",
+      "download": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_01M_2024_4326_LEVL_3.geojson",
+      "note": "Eight NUTS 2 regions, with Budapest and Pest separate",
+      "url": "https://www.ksh.hu/regionalatlas_regions"
+    },
+    "groups": [
+      {
+        "key": "HU11",
+        "name": "Budapest",
+        "members": [
+          "HU110"
+        ]
+      },
+      {
+        "key": "HU12",
+        "name": "Pest",
+        "members": [
+          "HU120"
+        ]
+      },
+      {
+        "key": "HU21",
+        "name": "Central Transdanubia",
+        "members": [
+          "HU211",
+          "HU212",
+          "HU213"
+        ]
+      },
+      {
+        "key": "HU22",
+        "name": "Western Transdanubia",
+        "members": [
+          "HU221",
+          "HU222",
+          "HU223"
+        ]
+      },
+      {
+        "key": "HU23",
+        "name": "Southern Transdanubia",
+        "members": [
+          "HU231",
+          "HU232",
+          "HU233"
+        ]
+      },
+      {
+        "key": "HU31",
+        "name": "Northern Hungary",
+        "members": [
+          "HU311",
+          "HU312",
+          "HU313"
+        ]
+      },
+      {
+        "key": "HU32",
+        "name": "Northern Great Plain",
+        "members": [
+          "HU321",
+          "HU322",
+          "HU323"
+        ]
+      },
+      {
+        "key": "HU33",
+        "name": "Southern Great Plain",
+        "members": [
+          "HU331",
+          "HU332",
+          "HU333"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "SRB",
+    "level": "NUTS2",
+    "year": "2024",
+    "description": "Статистический регион",
+    "source": {
+      "source": "Eurostat GISCO NUTS 2024 — administrative units merged into larger regions",
+      "license": "Eurostat GISCO reuse conditions",
+      "download": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_01M_2024_4326_LEVL_3.geojson",
+      "note": "Four statistical regions of Serbia outside Kosovo; Kosovo retains its separate map feature",
+      "url": "https://www.stat.gov.rs/en-us/oblasti/nacionalni-racuni/regionalni-podaci/"
+    },
+    "groups": [
+      {
+        "key": "RS11",
+        "name": "Belgrade",
+        "members": [
+          "RS110"
+        ]
+      },
+      {
+        "key": "RS12",
+        "name": "Vojvodina",
+        "members": [
+          "RS121",
+          "RS122",
+          "RS123",
+          "RS124",
+          "RS125",
+          "RS126",
+          "RS127"
+        ]
+      },
+      {
+        "key": "RS21",
+        "name": "Šumadija and Western Serbia",
+        "members": [
+          "RS211",
+          "RS212",
+          "RS213",
+          "RS214",
+          "RS215",
+          "RS216",
+          "RS217",
+          "RS218"
+        ]
+      },
+      {
+        "key": "RS22",
+        "name": "Southern and Eastern Serbia",
+        "members": [
+          "RS221",
+          "RS222",
+          "RS223",
+          "RS224",
+          "RS225",
+          "RS226",
+          "RS227",
+          "RS228",
+          "RS229"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "BGR",
+    "level": "GROUPED",
+    "year": "2024",
+    "description": "Географический регион · объединение областей",
+    "source": {
+      "source": "Eurostat GISCO NUTS 2024 — administrative units merged into larger regions",
+      "license": "Eurostat GISCO reuse conditions",
+      "download": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_01M_2024_4326_LEVL_3.geojson",
+      "note": "User-approved approximation using whole oblasts. Black Sea Coast and Strandzha combined because both occupy Burgas oblast; eight regions, not official statistical or tourist boundaries."
+    },
+    "groups": [
+      {
+        "key": "GEO-NORTH",
+        "name": "North Bulgaria",
+        "members": [
+          "BG311",
+          "BG312",
+          "BG313",
+          "BG314",
+          "BG315",
+          "BG321",
+          "BG323"
+        ]
+      },
+      {
+        "key": "GEO-DOBRUDJA",
+        "name": "Dobrudja",
+        "members": [
+          "BG324",
+          "BG325",
+          "BG332",
+          "BG333",
+          "BG334"
+        ]
+      },
+      {
+        "key": "GEO-BALKAN",
+        "name": "Balkan",
+        "members": [
+          "BG322",
+          "BG342"
+        ]
+      },
+      {
+        "key": "GEO-SHOPLUK",
+        "name": "Shopluk",
+        "members": [
+          "BG411",
+          "BG412",
+          "BG414",
+          "BG415"
+        ]
+      },
+      {
+        "key": "GEO-THRACE",
+        "name": "Northern Thrace",
+        "members": [
+          "BG421",
+          "BG422",
+          "BG423",
+          "BG343",
+          "BG344"
+        ]
+      },
+      {
+        "key": "GEO-RHODOPES",
+        "name": "Rhodope Mountains",
+        "members": [
+          "BG424",
+          "BG425"
+        ]
+      },
+      {
+        "key": "GEO-PIRIN",
+        "name": "Pirin Macedonia",
+        "members": [
+          "BG413"
+        ]
+      },
+      {
+        "key": "GEO-COAST-STRANDZHA",
+        "name": "Black Sea Coast and Strandzha",
+        "members": [
+          "BG331",
+          "BG341"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "ROU",
+    "historical": true,
+    "level": "HISTORICAL",
+    "year": "1930 / 2017",
+    "description": "Исторический регион",
+    "source": {
+      "source": "RoHGIS — Andrei Nacu and Cezar Buterez: counties 1929–1938 (reference 1930), grouped into historical regions; clipped to the existing modern country outline",
+      "license": "Historical interior geometry: CC BY 4.0; modern outline: geoBoundaries source conditions",
+      "download": "https://geo-spatial.org/vechi/file_download/29579",
+      "url": "https://rohgis.ro/judete_plasi_1930/",
+      "note": "Nine historical regions matching the reference. Sătmar and Maramureș combined; Bucovina includes only its part inside modern Romania. Historical boundary survey accuracy varies."
+    },
+    "groups": [
+      {
+        "key": "HIST-SATMAR-MARAMURES",
+        "name": "Sătmar și Maramureș",
+        "members": []
+      },
+      {
+        "key": "HIST-BUCOVINA",
+        "name": "Bucovina",
+        "members": []
+      },
+      {
+        "key": "HIST-MOLDOVA",
+        "name": "Moldova",
+        "members": []
+      },
+      {
+        "key": "HIST-CRISANA",
+        "name": "Crișana",
+        "members": []
+      },
+      {
+        "key": "HIST-TRANSYLVANIA",
+        "name": "Transilvania",
+        "members": []
+      },
+      {
+        "key": "HIST-BANAT",
+        "name": "Banat",
+        "members": []
+      },
+      {
+        "key": "HIST-OLTENIA",
+        "name": "Oltenia",
+        "members": []
+      },
+      {
+        "key": "HIST-MUNTENIA",
+        "name": "Muntenia",
+        "members": []
+      },
+      {
+        "key": "HIST-DOBROGEA",
+        "name": "Dobrogea",
+        "members": []
+      }
+    ]
+  },
+  {
+    "iso": "CZE",
+    "historical": true,
+    "level": "HISTORICAL",
+    "year": "1928 / 2021",
+    "description": "Историческая земля",
+    "source": {
+      "source": "Hranice Čech, Moravy a Slezska — Moravská národní obec and Společnost pro Moravu a Slezsko; clipped to the existing modern country outline",
+      "license": "Publicly available historical boundary coordinates; source does not state an explicit redistribution licence. Attribution retained. Country outline: geoBoundaries source conditions.",
+      "download": "https://hranice.moravy.eu/data/CMS.kml",
+      "url": "https://hranice.moravy.eu/ke-stazeni.html",
+      "note": "Bohemia, Moravia and Czech Silesia follow actual historical borders, not modern kraje. Mainland definition from source, excluding the historical Moravian enclaves except Butovice and Nové Vrbno."
+    },
+    "groups": [
+      {
+        "key": "HIST-BOHEMIA",
+        "name": "Bohemia",
+        "members": []
+      },
+      {
+        "key": "HIST-MORAVIA",
+        "name": "Moravia",
+        "members": []
+      },
+      {
+        "key": "HIST-SILESIA",
+        "name": "Czech Silesia",
+        "members": []
+      }
+    ]
+  },
+  {
+    "iso": "HRV",
+    "level": "GROUPED",
+    "year": "2017",
+    "description": "Географический регион · объединение жупаний",
+    "memberField": "isoCode",
+    "source": {
+      "source": "geoBoundaries gbOpen Croatia — counties dissolved into the five regions of the supplied reference",
+      "url": "https://www.geoboundaries.org/",
+      "note": "Istria; Kvarner including Lika-Senj; four Dalmatian counties; five Slavonian counties; nine counties including Zagreb city form Continental Croatia."
+    },
+    "groups": [
+      {
+        "key": "ISTRIA",
+        "name": "Istria",
+        "members": [
+          "HR-18"
+        ]
+      },
+      {
+        "key": "KVARNER",
+        "name": "Kvarner",
+        "members": [
+          "HR-08",
+          "HR-09"
+        ]
+      },
+      {
+        "key": "DALMATIA",
+        "name": "Dalmatia",
+        "members": [
+          "HR-13",
+          "HR-15",
+          "HR-17",
+          "HR-19"
+        ]
+      },
+      {
+        "key": "SLAVONIA",
+        "name": "Slavonia",
+        "members": [
+          "HR-10",
+          "HR-11",
+          "HR-12",
+          "HR-14",
+          "HR-16"
+        ]
+      },
+      {
+        "key": "CONTINENTAL",
+        "name": "Continental Croatia",
+        "members": [
+          "HR-01",
+          "HR-02",
+          "HR-03",
+          "HR-04",
+          "HR-05",
+          "HR-06",
+          "HR-07",
+          "HR-20",
+          "HR-21"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "MLT",
+    "level": "ADM0",
+    "year": "2023",
+    "wholeCountry": true,
+    "description": "",
+    "source": {
+      "source": "Research Innovation Unit Malta — six administrative regions dissolved into one country feature",
+      "note": "Malta, Gozo, Comino and smaller islands form one selectable region; internal boundaries removed."
+    },
+    "groups": [
+      {
+        "key": "WHOLE",
+        "name": "Мальта",
+        "members": [
+          "MLT-EASTERN",
+          "MLT-GOZO",
+          "MLT-NORTHERN",
+          "MLT-PORT",
+          "MLT-SOUTHERN",
+          "MLT-WESTERN"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "PRT",
+    "masked": true,
+    "level": "GROUPED",
+    "year": "2016 / 2024",
+    "description": "Регион по выбранной карте",
+    "source": {
+      "source": "geoBoundaries Portugal districts; Setúbal split by Eurostat GISCO NUTS 2024 Península de Setúbal and Alentejo Litoral masks",
+      "url": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/",
+      "download": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_01M_2024_4326_LEVL_3.geojson",
+      "note": "Seven regions matching the supplied district-based reference, not the current nine NUTS 2 regions. Norte and Centro follow whole districts. Lisboa includes Lisbon district and nine northern Setúbal municipalities; Alentejo includes Santarém and four southern Setúbal municipalities. Azores and Madeira separate. Original national coastline retained.",
+      "license": "Country outline: geoBoundaries source ODbL 1.0; Setúbal interior: Eurostat GISCO reuse conditions"
+    },
+    "groups": [
+      {
+        "key": "NORTE",
+        "name": "Norte",
+        "members": [
+          "PT-03",
+          "PT-04",
+          "PT-13",
+          "PT-16",
+          "PT-17"
+        ]
+      },
+      {
+        "key": "CENTRO",
+        "name": "Centro",
+        "members": [
+          "PT-01",
+          "PT-05",
+          "PT-06",
+          "PT-09",
+          "PT-10",
+          "PT-18"
+        ]
+      },
+      {
+        "key": "LISBOA",
+        "name": "Lisboa",
+        "members": [
+          "PT-11"
+        ]
+      },
+      {
+        "key": "ALENTEJO",
+        "name": "Alentejo",
+        "members": [
+          "PT-02",
+          "PT-07",
+          "PT-12",
+          "PT-14"
+        ]
+      },
+      {
+        "key": "ALGARVE",
+        "name": "Algarve",
+        "members": [
+          "PT-08"
+        ]
+      },
+      {
+        "key": "ACORES",
+        "name": "Açores",
+        "members": [
+          "PT-20"
+        ]
+      },
+      {
+        "key": "MADEIRA",
+        "name": "Madeira",
+        "members": [
+          "PT-30"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "CYP",
+    "masked": true,
+    "level": "DEFACTO",
+    "year": "Natural Earth 1:10m",
+    "description": "Северная или южная часть острова",
+    "source": {
+      "source": "Natural Earth 1:10m Admin 0 de facto map units; partition clipped to the existing Cyprus island land outline",
+      "license": "Natural Earth public domain; country outline follows existing geoBoundaries and GSHHG conditions",
+      "url": "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/",
+      "note": "Exactly two selectable areas. Northern Cyprus includes the Kokkina/Erenköy enclave. UN buffer-zone and British base polygons are grouped with the southern cartographic area to avoid additional selectable regions; this grouping does not represent their sovereignty. The dividing line is generalized at Natural Earth 1:10m source scale.",
+      "download": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson",
+      "licenseUrl": "https://www.naturalearthdata.com/about/terms-of-use/"
+    },
+    "groups": [
+      {
+        "key": "SOUTH",
+        "name": "Республика Кипр",
+        "members": []
+      },
+      {
+        "key": "NORTH",
+        "name": "Северный Кипр",
+        "members": []
+      }
+    ]
+  },
+  {
+    "iso": "ISL",
+    "level": "ADM0",
+    "year": "2026",
+    "wholeCountry": true,
+    "description": "",
+    "source": {
+      "source": "National Land Survey of Iceland — IS 50V, 24 September 2026; 61 municipal polygons dissolved into one country feature",
+      "note": "Iceland and offshore islands form one selectable region; internal municipal boundaries removed."
+    },
+    "groups": [
+      {
+        "key": "WHOLE",
+        "name": "Исландия",
+        "members": [
+          "ISL-0",
+          "ISL-1000",
+          "ISL-1100",
+          "ISL-1300",
+          "ISL-1400",
+          "ISL-1604",
+          "ISL-1606",
+          "ISL-2000",
+          "ISL-2300",
+          "ISL-2506",
+          "ISL-2510",
+          "ISL-3000",
+          "ISL-3506",
+          "ISL-3511",
+          "ISL-3709",
+          "ISL-3713",
+          "ISL-3714",
+          "ISL-3716",
+          "ISL-3811",
+          "ISL-4100",
+          "ISL-4200",
+          "ISL-4502",
+          "ISL-4604",
+          "ISL-4803",
+          "ISL-4901",
+          "ISL-4902",
+          "ISL-4911",
+          "ISL-5508",
+          "ISL-5609",
+          "ISL-5613",
+          "ISL-5716",
+          "ISL-6000",
+          "ISL-6100",
+          "ISL-6250",
+          "ISL-6400",
+          "ISL-6513",
+          "ISL-6515",
+          "ISL-6601",
+          "ISL-6602",
+          "ISL-6611",
+          "ISL-6613",
+          "ISL-6710",
+          "ISL-7300",
+          "ISL-7400",
+          "ISL-7502",
+          "ISL-7505",
+          "ISL-8000",
+          "ISL-8200",
+          "ISL-8401",
+          "ISL-8508",
+          "ISL-8509",
+          "ISL-8610",
+          "ISL-8613",
+          "ISL-8614",
+          "ISL-8710",
+          "ISL-8716",
+          "ISL-8717",
+          "ISL-8719",
+          "ISL-8720",
+          "ISL-8721",
+          "ISL-8722"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "ALB",
+    "level": "ADM0",
+    "year": "2024",
+    "wholeCountry": true,
+    "description": "",
+    "source": {
+      "note": "One country region; existing administrative polygons dissolved without replacing the national outline."
+    },
+    "groups": [
+      {
+        "key": "WHOLE",
+        "name": "Албания",
+        "members": [
+          "ALB-AL011",
+          "ALB-AL012",
+          "ALB-AL013",
+          "ALB-AL014",
+          "ALB-AL015",
+          "ALB-AL021",
+          "ALB-AL022",
+          "ALB-AL031",
+          "ALB-AL032",
+          "ALB-AL033",
+          "ALB-AL034",
+          "ALB-AL035"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "AND",
+    "level": "ADM0",
+    "year": "2007",
+    "wholeCountry": true,
+    "description": "",
+    "source": {
+      "note": "One country region; existing administrative polygons dissolved without replacing the national outline."
+    },
+    "groups": [
+      {
+        "key": "WHOLE",
+        "name": "Андорра",
+        "members": [
+          "23515209B12259378502884",
+          "23515209B24107209170284",
+          "23515209B25074230340039",
+          "23515209B43580600008856",
+          "23515209B82836637605816",
+          "23515209B87138494217820",
+          "23515209B96881004874456"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "LIE",
+    "level": "ADM0",
+    "year": "2017",
+    "wholeCountry": true,
+    "description": "",
+    "source": {
+      "note": "One country region; existing administrative polygons dissolved without replacing the national outline."
+    },
+    "groups": [
+      {
+        "key": "WHOLE",
+        "name": "Лихтенштейн",
+        "members": [
+          "41692755B18610673403937",
+          "41692755B23424129986871",
+          "41692755B26730620500431",
+          "41692755B33734108210637",
+          "41692755B54479018835512",
+          "41692755B54662867343220",
+          "41692755B63992629942054",
+          "41692755B66371769109520",
+          "41692755B68962474767900",
+          "41692755B90684947638296",
+          "41692755B941757218579"
+        ]
+      }
+    ]
+  },
+  {
+    "iso": "SMR",
+    "level": "ADM0",
+    "year": "2017",
+    "wholeCountry": true,
+    "description": "",
+    "source": {
+      "note": "One country region; existing administrative polygons dissolved without replacing the national outline."
+    },
+    "groups": [
+      {
+        "key": "WHOLE",
+        "name": "Сан-Марино",
+        "members": [
+          "276375B17354965621201",
+          "276375B27851101452101",
+          "276375B66072919049103",
+          "276375B67153494303952",
+          "276375B67355364129568",
+          "276375B74977268893733",
+          "276375B76751821521009",
+          "276375B88489846739211",
+          "276375B96225212173401"
+        ]
+      }
+    ]
+  }
+]

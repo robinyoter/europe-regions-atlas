@@ -1,0 +1,300 @@
+{
+  "ROU-HIST-BANAT": {
+    "background": "#b51c2b",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/ro/ROU-HIST-BANAT.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CoA_Banat.svg",
+        "author": "Vectorised by Chainwit. Original work from Coat of Arms of Romania",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sha256": "c8b385e3d80dbbffe76ba1faff52567bbeaeef210f37b0c9c2d64c17f23702a8"
+      }
+    ]
+  },
+  "ROU-HIST-CRISANA": {
+    "background": "#17559c",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/ro/ROU-HIST-CRISANA.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stem%C4%83_Cri%C8%99ana.png",
+        "author": "GeorgeBasaraba",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sha256": "2c1c5e06be7958cd70c5962f193022277ff7f124eec3729c7ab75d4dfe37333c"
+      }
+    ]
+  },
+  "ROU-HIST-DOBROGEA": {
+    "background": "#17559c",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/ro/ROU-HIST-DOBROGEA.svg",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dobrogea_COA.svg",
+        "author": "Original work by Victor Dima",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dobrogea_COA.svg",
+        "sha256": "35b7521e970df5301ea98fc18741b1fe80dfeb720e2346b3e65fe81318e46542"
+      }
+    ]
+  },
+  "ROU-HIST-OLTENIA": {
+    "background": "#b51c2b",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/ro/ROU-HIST-OLTENIA.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stema_Olteniei.png",
+        "author": "GeorgeBasaraba",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sha256": "c256d6dbabd1fab4018a2b8007cf32005d6dadaeb1eabe3b175cacc0f1885c53"
+      }
+    ]
+  },
+  "ROU-HIST-SATMAR-MARAMURES": {
+    "background": "#17559c",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/ro/SATMAR.svg",
+        "box": [
+          150,
+          80,
+          420,
+          640
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:COA-Szatm%C3%A1r-v%C3%A1rmegye.svg",
+        "author": "Babylonien86",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sha256": "6d769aced024f3bc1bb262a87099e074e2dffb98255d3137495db243cd64ce30"
+      },
+      {
+        "file": "data/flags/coat-sources/ro/ROU-HIST-SATMAR-MARAMURES.png",
+        "box": [
+          630,
+          80,
+          420,
+          640
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stema_Maramure%C8%99ului.png",
+        "author": "GeorgeBasaraba",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sha256": "1dda635c1dadc0b24733690418acbae77539ec2b88610a3fdf91dcffb48a74a4"
+      }
+    ]
+  },
+  "SRB-RS21": {
+    "output": "flags/rs/SRB-RS21.png",
+    "background": "#17559c",
+    "processing": "Неофициальная композиция для Шумадии и Западной Сербии: исторический герб революционной Сербии с сербским крестом и трибалльским вепрем. Герб относится к более широкой исторической территории; флаг создан для карты.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/rs/SRB-RS21.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Revolutionary_Serbia.svg",
+        "author": "Samhanin & ImStevan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sha256": "dcffc006c00958efe5e45cdc2e6eee1700a417925b6a691b096e5afd1a3e7b87"
+      }
+    ]
+  },
+  "SRB-RS22": {
+    "output": "flags/rs/SRB-RS22.png",
+    "background": "#b51c2b",
+    "processing": "Неофициальная композиция для Южной и Восточной Сербии: реконструкция герба Моравской Сербии. Исторические границы не совпадают со статистическим регионом; флаг создан для карты.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/rs/SRB-RS22.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Moravian_Serbia.svg",
+        "author": "Samhanin",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sha256": "b379961e93c31ac0dbb594b48c1c7c5792258db357dbaf0b57a4b52b15b3f47e"
+      }
+    ]
+  },
+  "BGR-GEO-NORTH": {
+    "output": "flags/bg/BGR-GEO-NORTH.png",
+    "background": "#184c8b",
+    "processing": "Неофициальный флаг создан для карты. Приписываемый Мёзии герб из традиции Стемматографии; композиция создана для выбранного региона Северной Болгарии.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/bg/BGR-GEO-NORTH.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Moesia_(Attributed,_Stemmatografia).png",
+        "author": "Jap2k11",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sha256": "276f1072483ef8f847cb770ba194bdd4be8af26de6464f0b53926eeb97260d65"
+      }
+    ]
+  },
+  "BGR-GEO-PIRIN": {
+    "output": "flags/bg/BGR-GEO-PIRIN.png",
+    "background": "#8c2030",
+    "processing": "Неофициальный флаг создан для карты. Стилизованный македонский лев из гербовника 1620 года; условная композиция для Пиринской Македонии.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/bg/BGR-GEO-PIRIN.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macedonian_lion,_1620,_stylized.svg",
+        "author": "MacedonianBoy",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sha256": "3208698091fc5f364fbd41ac8c2bb03b546c724560f9c57d9774dc90a112ed26"
+      }
+    ]
+  },
+  "BGR-GEO-SHOPLUK": {
+    "output": "flags/bg/BGR-GEO-SHOPLUK.png",
+    "background": "#714790",
+    "processing": "Неофициальный флаг создан для карты. Герб Софии, созданный в 1900 году; распространение городского символа на весь Шоплук является авторской условностью.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/bg/BGR-GEO-SHOPLUK.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BG_Sofia_coa.svg",
+        "author": "",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:BG_Sofia_coa.svg",
+        "sha256": "4f2b8dd9acee8a72d71083d8df9f9a001cf399e180daec94c008ed5afeecf6d2"
+      }
+    ]
+  },
+  "BGR-GEO-DOBRUDJA": {
+    "output": "flags/bg/BGR-GEO-DOBRUDJA.png",
+    "background": "#17559c",
+    "processing": "Неофициальный флаг создан для карты. Дельфины из геральдики Добруджи; условная композиция для болгарской части исторического региона.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/bg/BGR-GEO-DOBRUDJA.svg",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dobrogea_COA.svg",
+        "author": "Original work by Victor Dima",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dobrogea_COA.svg",
+        "sha256": "35b7521e970df5301ea98fc18741b1fe80dfeb720e2346b3e65fe81318e46542"
+      }
+    ]
+  },
+  "BGR-GEO-BALKAN": {
+    "output": "flags/bg/BGR-GEO-BALKAN.png",
+    "background": "#315f48",
+    "processing": "Неофициальный флаг создан для карты. Болгарский лев из герба 1879–1907 годов на зелёном поле. Общеболгарский исторический символ использован как основа авторской композиции для Балканского региона.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/bg/BGR-GEO-BALKAN.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_Bulgaria_1879-1907.svg",
+        "author": "Glasshouse using elements by Sodacan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sha256": "43ab93004cd3597f46a2a089486a74d5394e84886fefe462d47608fe2d01023f"
+      }
+    ]
+  },
+  "BGR-GEO-COAST-STRANDZHA": {
+    "output": "flags/bg/BGR-GEO-COAST-STRANDZHA.png",
+    "background": "#207e98",
+    "processing": "Неофициальный флаг создан для карты. Болгарский лев из герба 1879–1907 годов на морском синем поле. Авторская композиция для объединённого региона побережья и Странджи.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/bg/BGR-GEO-COAST-STRANDZHA.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_Bulgaria_1879-1907.svg",
+        "author": "Glasshouse using elements by Sodacan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sha256": "43ab93004cd3597f46a2a089486a74d5394e84886fefe462d47608fe2d01023f"
+      }
+    ]
+  },
+  "BGR-GEO-RHODOPES": {
+    "output": "flags/bg/BGR-GEO-RHODOPES.png",
+    "background": "#695179",
+    "processing": "Неофициальный флаг создан для карты. Болгарский лев из герба 1879–1907 годов на фиолетовом поле. Авторская композиция для Родоп; отдельный исторический герб всего этого региона не установлен.",
+    "components": [
+      {
+        "file": "data/flags/coat-sources/bg/BGR-GEO-RHODOPES.png",
+        "box": [
+          310,
+          60,
+          580,
+          680
+        ],
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_Bulgaria_1879-1907.svg",
+        "author": "Glasshouse using elements by Sodacan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sha256": "43ab93004cd3597f46a2a089486a74d5394e84886fefe462d47608fe2d01023f"
+      }
+    ]
+  }
+}

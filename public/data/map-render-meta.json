@@ -1,0 +1,22 @@
+{
+  "inputHash": "016b5df8c9181bb37ff09a33e6371340ff68d1590c7a90b35738a0608799a446",
+  "regions": 456,
+  "levels": [
+    {
+      "interval": 3000,
+      "characters": 1788567
+    },
+    {
+      "interval": 1000,
+      "characters": 3968357
+    },
+    {
+      "interval": 300,
+      "characters": 9154440
+    },
+    {
+      "interval": 0,
+      "characters": 18375985
+    }
+  ]
+}
